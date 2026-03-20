@@ -1,0 +1,140 @@
+:root {
+    --primary: #2c3e50;
+    --accent: #3498db;
+    --success: #27ae60;
+    --error: #e74c3c;
+    --warning: #f1c40f;
+    --bg: #f4f7f6;
+    --text: #333;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg);
+    color: var(--text);
+    padding: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* Cronómetro flotante */
+#timer-sticky {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: var(--primary);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: bold;
+    z-index: 1000;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.info-alert {
+    background: #e1f5fe;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    margin-top: 10px;
+    border-left: 4px solid var(--accent);
+}
+
+.pregunta-card {
+    margin-bottom: 25px;
+    padding: 25px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+/* Estado marcado para repaso */
+.pregunta-card.marked {
+    border-left: 6px solid var(--warning);
+    background-color: #fffdf2;
+}
+
+.flag-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    cursor: pointer;
+    font-size: 1.3rem;
+    filter: grayscale(1);
+    opacity: 0.3;
+}
+
+.flag-btn.active {
+    filter: grayscale(0);
+    opacity: 1;
+}
+
+.opcion-label {
+    display: block;
+    padding: 12px;
+    margin: 8px 0;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.opcion-label:hover { background: #f9f9f9; }
+
+/* Botones de acción por pregunta */
+.actions-row {
+    margin-top: 15px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn-clear {
+    background: none;
+    border: 1px solid #ccc;
+    color: #888;
+    padding: 4px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.8rem;
+}
+
+.btn-clear:hover {
+    border-color: var(--error);
+    color: var(--error);
+}
+
+/* Estilos de corrección */
+.es-correcta { background-color: #d4edda !important; border-color: #28a745 !important; }
+.es-incorrecta { background-color: #f8d7da !important; border-color: #dc3545 !important; }
+
+.hidden { display: none; }
+
+.footer-actions { text-align: center; margin-top: 40px; }
+
+#btn-submit {
+    background: var(--success);
+    color: white;
+    padding: 15px 50px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.reserva-header {
+    background: #34495e;
+    color: white;
+    padding: 15px;
+    margin: 50px 0 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
