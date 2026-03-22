@@ -1,5 +1,5 @@
 // Este archivo contiene todas tus preguntas
-const bancoDePreguntas = [
+window.bancoDePreguntas = [
   {
     "id": 1,
     "enunciado": "A las islas de Gran Canaria, Mallorca y Tenerife les corresponderán: (Oposic. Agentes Medioambientales OO.AA. Ministerio Medio Ambiente – 2018)",

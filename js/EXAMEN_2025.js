@@ -1,5 +1,5 @@
 // Este archivo contiene todas tus preguntas
-const bancoDePreguntas = [
+window.bancoDePreguntas = [
   {
     "id": 1,
     "tema": 17,
