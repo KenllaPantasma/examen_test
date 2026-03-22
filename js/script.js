@@ -4,56 +4,42 @@ let cronometroInterval = null;
 // Detectamos el ID del test desde el hash (#m2_t2, #EXAMEN_2025...)
 const obtenerTestId = () => window.location.hash.substring(1) || 'EXAMEN_2025';
 
-async function cargarBancoDePreguntas() {
+function cargarBancoDePreguntas() {
     const testId = obtenerTestId();
-
-    // 1. Limpieza total y parada de cronómetro previo
+    
+    // 1. Limpiar estado previo
     if (cronometroInterval) {
         clearInterval(cronometroInterval);
         cronometroInterval = null;
     }
     segundos = 0;
+    document.getElementById('timer').textContent = "00:00:00";
+    document.getElementById('btn-start-manual').style.display = 'inline-block';
+    document.getElementById('quiz-container').innerHTML = '<p>Cargando preguntas...</p>';
 
-    const timerDisplay = document.getElementById('timer');
-    if (timerDisplay) timerDisplay.textContent = "00:00:00";
+    // 2. Cargar el script de forma limpia
+    const viejoScript = document.getElementById('script-datos');
+    if (viejoScript) viejoScript.remove();
 
-    document.getElementById('quiz-container').innerHTML = '<div class="loader">Cargando preguntas de ' + testId + '...</div>';
+    const script = document.createElement('script');
+    script.id = 'script-datos';
+    // El ?v= evita que el servidor te entregue una versión vieja (caché)
+    script.src = `js/${testId}.js?v=${new Date().getTime()}`;
 
-    try {
-        // 2. LEER EL ARCHIVO JS COMO TEXTO
-        // Usamos fetch para obtener el contenido crudo del archivo m2_t2.js
-        const response = await fetch(`js/${testId}.js?v=${new Date().getTime()}`);
-        if (!response.ok) throw new Error("Archivo no encontrado");
-        let textoOriginal = await response.text();
+    script.onload = () => {
+        // Como ahora usas window.bancoDePreguntas en los archivos, 
+        // el navegador lo reconocerá inmediatamente al cargar el script.
+        if (window.bancoDePreguntas) {
+            actualizarCabecera(testId);
+            renderizarPreguntas();
+        }
+    };
 
-        // Importamos dinámicamente el archivo
-        // Nota: Para que esto funcione, bancoDePreguntas DEBE ser global o 
-        // simplemente dejamos que el eval lo maneje si reemplazamos const por var
-        const codigoLimpio = textoOriginal.replace('const bancoDePreguntas', 'window.bancoDePreguntas');
+    script.onerror = () => {
+        alert("Error: No se encontró el archivo js/" + testId + ".js");
+    };
 
-        // Ejecutamos el código modificado para que bancoDePreguntas sea accesible
-        const scriptActual = document.getElementById('script-datos');
-        if (scriptActual) scriptActual.remove();
-
-        const scriptElement = document.createElement('script');
-        scriptElement.id = 'script-datos';
-        scriptElement.text = codigoLimpio;
-        document.head.appendChild(scriptElement);
-
-        // 4. Inicializar interfaz
-        setTimeout(() => {
-            if (window.bancoDePreguntas) {
-                actualizarCabecera(testId);
-                renderizarPreguntas();
-                iniciarCronometro();
-            }
-        }, 150);
-
-    } catch (error) {
-        console.error("Error cargando el test:", error);
-        document.getElementById('quiz-container').innerHTML =
-            `<p style="color:red">Error al cargar el test "${testId}". Asegúrate de que el archivo js/${testId}.js existe.</p>`;
-    }
+    document.head.appendChild(script);
 }
 
 function iniciarCronometro() {
