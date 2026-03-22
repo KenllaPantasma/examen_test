@@ -138,3 +138,35 @@ body {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+
+.nav-top {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 1001; /* Por encima del timer si es necesario */
+}
+
+.btn-back {
+    background-color: #34495e;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: inherit;
+    font-weight: bold;
+    transition: background 0.3s;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.btn-back:hover {
+    background-color: #2c3e50;
+}
+
+/* Ajuste opcional: si el timer-sticky está en el centro, 
+   asegúrate de que no se solapen en móviles */
+@media (max-width: 600px) {
+    #timer-sticky {
+        top: 50px; /* Baja un poco el timer en pantallas pequeñas */
+    }
+}

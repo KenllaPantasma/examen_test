@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academia Forestal - Panel de Tests</title>
+    <link rel="stylesheet" href="css/dashboard-style.css">
+</head>
+
+<body>
+
+    <div class="dashboard-container">
+        <header class="main-header">
+            <h1>Preparación Ingenieros Técnicos Forestales</h1>
+            <p>Selecciona un módulo o examen para comenzar la simulación</p>
+        </header>
+
+        <section class="exam-highlight">
+            <div class="card premium" onclick="irAlTest('EXAMEN_2025')">
+                <div class="card-content">
+                    <span class="badge">OFICIAL</span>
+                    <h2>Examen Real 2025</h2>
+                    <p>Simulacro completo con preguntas de reserva (Pregunta 5 anulada).</p>
+                    <button class="btn-start">Iniciar Examen</button>
+                </div>
+            </div>
+        </section>
+
+        <div class="modules-grid" id="modules-menu"></div>
+    </div>
+
+    <script>
+        const totalModulos = 9;
+        const grid = document.getElementById('modules-menu');
+
+        for (let i = 1; i <= totalModulos; i++) {
+            const moduleCard = document.createElement('div');
+            moduleCard.className = 'module-card';
+            moduleCard.innerHTML = `
+            <h3>Módulo ${i}</h3>
+            <div class="test-buttons">
+                <button onclick="irAlTest('m${i}_t1')">Test 1</button>
+                <button onclick="irAlTest('m${i}_t2')">Test 2</button>
+            </div>
+        `;
+            grid.appendChild(moduleCard);
+        }
+
+        function irAlTest(id) {
+            // Si haces clic en Módulo 2 Test 2, esto genera: simulador.html#m2_t2
+            window.location.href = `simulador.html#${id}`;
+        }
+
+    </script>
+</body>
+
+</html>
