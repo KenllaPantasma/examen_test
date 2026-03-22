@@ -6,6 +6,9 @@ const obtenerTestId = () => window.location.hash.substring(1) || 'EXAMEN_2025';
 
 function cargarBancoDePreguntas() {
     const testId = obtenerTestId();
+
+    // 1. Limpiamos por completo la variable antes de cargar el nuevo test
+    window.bancoDePreguntas = null;
     
     // 1. Limpiar estado previo
     if (cronometroInterval) {
@@ -27,12 +30,22 @@ function cargarBancoDePreguntas() {
     script.src = `js/${testId}.js?v=${new Date().getTime()}`;
 
     script.onload = () => {
-        // Como ahora usas window.bancoDePreguntas en los archivos, 
-        // el navegador lo reconocerá inmediatamente al cargar el script.
-        if (window.bancoDePreguntas) {
-            actualizarCabecera(testId);
-            renderizarPreguntas();
-        }
+        // Como ahora usas window.bancoDePreguntas en los archivos, el navegador lo reconocerá inmediatamente al cargar el script.
+        // TRUCO PARA MÓVILES: Reintentar hasta que la variable exista
+        let intentos = 0;
+        const verificarCarga = setInterval(() => {
+            intentos++;
+            if (window.bancoDePreguntas && window.bancoDePreguntas.length > 0) {
+                clearInterval(verificarCarga);
+                console.log("Test cargado con éxito en móvil");
+                actualizarCabecera(testId);
+                renderizarPreguntas();
+            } else if (intentos > 50) { // Si tras 5 segundos no hay nada, avisar
+                clearInterval(verificarCarga);
+                document.getElementById('quiz-container').innerHTML = 
+                    "<p style='color:red; text-align:center;'>Error de carga: El test no respondió. Por favor, refresca la página.</p>";
+            }
+        }, 100);
     };
 
     script.onerror = () => {
