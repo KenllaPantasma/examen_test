@@ -1,3 +1,17 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 9.1",
+  temario: {
+    general: [],
+    especifico: [
+      "46. Aprovechamientos forestales de corcho, resina, frutos, hongos, plantas aromáticas y medicinales, biomasa forestal para uso energético.",
+      "47. La producción forestal española. Balance del consumo nacional de madera. Distribución geográfica. Especies productoras. El mercado internacional de la madera y otros productos forestales.",
+      "48. La certificación forestal: certificación de la gestión y de la cadena de custodia. Diferentes sistemas utilizados en el mundo. Aplicación en España. Esquemas de certificación de servicios ecosistémicos.",
+      "49. Valoración forestal. Fórmulas y criterios. Valoración ambiental. Servicios ecosistémicos y externalidades de los montes. Fiscalidad e instrumentos económicos aplicables a los montes en España."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

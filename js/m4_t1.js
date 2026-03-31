@@ -1,3 +1,18 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 4.1",
+  temario: {
+    general: [
+      "13. La Gobernanza Pública y el Gobierno Abierto. Legislación sobre transparencia. La protección de datos: régimen jurídico y principios de la protección de datos y derechos de las personas.",
+      "14. Política medioambiental en España. La distribución de competencias en materia de medio ambiente entre la Administración General del Estado, la Administración Autonómica y la Administración Local. El Ministerio para la Transición Ecológica y el Reto Demográfico: competencias."
+    ],
+    especifico: [
+      "13. Normativa de comercialización de productos fitosanitarios. Reglamento Europeo 1107/2009. Marco para conseguir un uso sostenible de plaguicidas. Directiva Europea 128/2009 y Plan de Acción Nacional de Uso Sostenible de Productos Fitosanitarios.",
+      "14. Deforestación y comercio ilegal de madera. El Reglamento CE 2173/2005 (FLEGT) y su aplicación en España. Reglamento (UE) 2023/1115 de productos libres de deforestación (EUDR) y principales diferencias con el Reglamento UE 995/2010 de la madera (EUTR)."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas =[
   {

@@ -1,3 +1,18 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 1.2",
+  temario: {
+    general: [
+      "3. El Gobierno y la Administración. El Gobierno: composición, designación, funciones y relaciones con el resto de los poderes del Estado. La Administración General del Estado y su organización periférica.",
+      "4. La organización territorial del Estado. Las Comunidades Autónomas. Distribución competencial. Los conflictos de competencias. La coordinación entre las distintas administraciones públicas. Cooperación entre las administraciones para la conservación del medio ambiente."
+    ],
+    especifico: [
+      "3. Órganos de coordinación y participación de la política forestal española y del patrimonio natural y la biodiversidad. Conferencias sectoriales. La Comisión Estatal para el Patrimonio Natural y la Biodiversidad y sus comités especializados. El Consejo Forestal Nacional. El Consejo Estatal para el Patrimonio Natural y la Biodiversidad. Especial referencia a las organizaciones no gubernamentales, sector productor y sus entidades representativas.",
+      "4. Principales foros de discusión sobre gestión forestal sostenible a escala global y regional. El Foro de Naciones Unidas para los bosques, los órganos estatutarios forestales de la FAO. Conferencias ministeriales para la protección de bosques en Europa (Forest Europe). Resoluciones sobre la gestión forestal sostenible en Europa. Criterios e indicadores de gestión forestal sostenible."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

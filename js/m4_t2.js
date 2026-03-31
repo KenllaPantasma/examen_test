@@ -1,3 +1,18 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 4.2",
+  temario: {
+    general: [
+      "15. Protección y gestión de la costa de España. La ley de costas y su reglamento. Régimen jurídico del dominio público marítimo-terrestre. Líneas maestras de la política de costas en España. La ley de protección del medio marino y las estrategias marinas.",
+      "16. La administración pública del agua en España. La Ley de Aguas y sus Reglamentos de desarrollo. Planes Hidrológicos de Cuenca: objetivos y principales elementos. Las Reservas Naturales Fluviales."
+    ],
+    especifico: [
+      "15. La planificación de espacios naturales protegidos. Los Planes de Ordenación de los Recursos Naturales, los Planes Rectores de Uso y Gestión y otros instrumentos de planificación. Planes de Gestión en espacios de la Red Natura 2000. Características principales y ejemplos concretos.",
+      "16. La Red de Parques Nacionales. Características principales. Los Parques Nacionales españoles. Representación y situación actual. Plan Director y el Consejo de la Red. Las Reservas de la Biosfera. El Programa MaB de la UNESCO y Las Reservas de la Biosfera."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

@@ -73,6 +73,7 @@ function iniciarCronometro() {
 }
 
 function actualizarCabecera(testId) {
+    
     const titulo = testId.replace('_', ' ').toUpperCase();
     document.querySelector('header h1').textContent = `Simulador: ${titulo}`;
 
@@ -88,23 +89,36 @@ function renderizarPreguntas() {
     container.innerHTML = '';
     const testId = obtenerTestId();
 
-    window.bancoDePreguntas.forEach(p => {
-        // Regla de cabecera de reserva
-        if (testId === 'EXAMEN_2025' && p.id === 101) {
-            const hr = document.createElement('div');
-            hr.style = "margin-top:40px; padding:20px; border-top:2px solid #eee; font-weight:bold; color:#2c3e50;";
-            hr.innerHTML = "Preguntas de Reserva (Sustituyen a las anuladas)";
-            container.appendChild(hr);
+    // 1. Insertar la información del Temario arriba si existe
+    if (window.informacionTest && window.informacionTest.temario) {
+        const info = window.informacionTest.temario;
+        const headerInfo = document.createElement('div');
+        headerInfo.style = "background:#f4f7f6; padding:15px; border-radius:10px; margin-bottom:20px; border-left:5px solid #2d6a4f;";
+        
+        let contenidoTemario = `<h4 style="margin-top:0; color:#1b4332;">${window.informacionTest.titulo}</h4>`;
+        
+        if (info.general) {
+            contenidoTemario += `<p style="margin:5px 0;"><strong>🔹 Temario General:</strong><br> ${info.general.join('<br> ')}</p>`;
         }
+        if (info.especifico) {
+            contenidoTemario += `<p style="margin:5px 0;"><strong>🔸 Temario Específico:</strong><br> ${info.especifico.join('<br> ')}</p>`;
+        }
+        
+        headerInfo.innerHTML = contenidoTemario;
+        container.appendChild(headerInfo);
+    }
 
+    // 2. Renderizar las preguntas usando su ID
+    window.bancoDePreguntas.forEach((p) => {
         const card = document.createElement('div');
         const esAnulada = (testId === 'EXAMEN_2025' && p.id === 5);
         card.className = `pregunta-card ${esAnulada ? 'anulada' : ''}`;
         card.id = `card-${p.id}`;
 
+        // USAMOS p.id PARA LA NUMERACIÓN
         card.innerHTML = `
             <span class="flag-btn" onclick="toggleFlag(${p.id})">🚩</span>
-            <p><strong>${p.enunciado}</strong> ${esAnulada ? '<b style="color:red">[ANULADA]</b>' : ''}</p>
+            <p><strong>${p.id}.</strong> ${p.enunciado} ${esAnulada ? '<b style="color:red">[ANULADA]</b>' : ''}</p>
             <div class="opciones">
                 ${Object.entries(p.opciones).map(([key, val]) => `
                     <label class="opcion-label">
@@ -119,8 +133,6 @@ function renderizarPreguntas() {
         `;
         container.appendChild(card);
     });
-
-    
 }
 
 function corregirExamen() {

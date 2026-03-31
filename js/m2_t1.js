@@ -1,3 +1,18 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 2.1",
+  temario: {
+    general: [
+      "5. Las fuentes del Derecho Administrativo. La jerarquía de las fuentes. La Ley. Las disposiciones del Ejecutivo con fuerza de Ley: Decreto-Ley y Decreto Legislativo. El Reglamento: concepto, clases y límites. Otras fuentes del Derecho Administrativo.",
+      "6. El acto administrativo: concepto, clases, y elementos. Eficacia y validez de los actos administrativos. Su motivación y notificación."
+    ],
+    especifico: [
+      "5. El sector forestal en los Convenios de Naciones Unidas sobre Cambio Climático, Diversidad Biológica y de Lucha contra la Desertificación. Los bosques en el Protocolo de Kioto y el Acuerdo de París. Real Decreto 214/2025, de 18 de marzo, por el que se crea el registro de huella de carbono, compensación y proyectos de absorción de dióxido de carbono.",
+      "6. Estrategia Forestal Europea. Principales disposiciones de aplicación. Seguimiento y evaluación de resultados. Estrategia Europea de Biodiversidad 2030 y Estrategia «de la Granja a la Mesa»."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

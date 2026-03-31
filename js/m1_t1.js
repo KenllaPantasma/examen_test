@@ -1,3 +1,18 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 1.1",
+  temario: {
+    general: [
+      "1. La Constitución Española de 1978: características, estructura, principios y valores fundamentales. Los derechos fundamentales y su especial protección. El Tribunal Constitucional. La reforma constitucional.",
+      "2. La Corona: atribuciones y competencias. Las Cortes Generales. Composición y atribuciones del Congreso de los Diputados y del Senado."
+    ],
+    especifico: [
+      "1. Ley 43/2003, de 21 de noviembre, de Montes y sus modificaciones. Objeto y conceptos generales. Competencias de las Administraciones públicas. Clasificación y régimen jurídico de los montes.",
+      "2. Ley 43/2003, de 21 de noviembre, de Montes y sus modificaciones. Información, Planificación. Ordenación y Aprovechamientos Forestales. Conservación y protección de montes."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

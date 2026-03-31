@@ -1,3 +1,17 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 9.2",
+  temario: {
+    general: [],
+    especifico: [
+      "50. El Catastro Inmobiliario (I). El texto refundido de la Ley del Catastro Inmobiliario, aprobado por RDL 1/2004, de 5 de marzo, y el Real Decreto 417/2006, de 7 de abril, por el que se desarrolla: Definición de Catastro. Ámbito de aplicación de la Ley. Principios informadores del Catastro Inmobiliario y Competencias. El Impuesto sobre Bienes Inmuebles en el texto refundido de la Ley Reguladora de las Haciendas Locales.",
+      "51. El Catastro Inmobiliario (II): Los bienes inmuebles. Clasificación de los bienes inmuebles a efectos catastrales. La descripción catastral de los bienes inmuebles. El titular catastral. Concepto y clases de titular catastral. Derechos y deberes. La cartografía catastral. Concepto y contenido. El sistema de información catastral.",
+      "52. Los procedimientos de incorporación de bienes inmuebles al Catastro Inmobiliario: Procedimientos de declaración y solicitud. El procedimiento de comunicación. Procedimientos de subsanación de discrepancias y rectificación. El procedimiento de inspección catastral.",
+      "53. El valor catastral: concepto y componentes. La determinación del valor catastral de los bienes inmuebles rústicos según el texto refundido de la Ley del Catastro Inmobiliario, aprobado por RDL 1/2004, de 5 de marzo. Las ponencias de valores: contenido, clases, elaboración, aprobación e impugnación. Normas técnicas de valoración de los bienes inmuebles de características especiales. El Valor de Referencia: Concepto, aplicación y diferencias con el valor catastral. Procedimiento de determinación de los valores de referencia para bienes inmuebles rústicos."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

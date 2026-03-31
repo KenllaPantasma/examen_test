@@ -1,3 +1,17 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 6.1",
+  temario: {
+    general: [],
+    especifico: [
+      "22. Características generales de la flora española. Diversidad, especies singulares y endémicas. Desarrollo de la normativa de protección. Estrategia de Conservación Vegetal.",
+      "23. Características generales de la fauna autóctona española: principales grupos taxonómicos, ecología, características y distribución. Evaluación general de la situación de la biodiversidad faunística española. Principales especies de fauna amenazada.",
+      "24. Listado de Especies Silvestres en Régimen de Protección Especial y Catálogo Español de Especies Amenazadas. Principales taxones, distribución y causas de amenaza. Estrategias para la conservación de especies en España: planes de recuperación y de conservación. Normativa sobre especies exóticas invasoras. Principales taxones. Gestión, control y erradicación.",
+      "25. Características botánicas, ecológicas y selvícolas de las principales gimnospermas arbóreas españolas.",
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

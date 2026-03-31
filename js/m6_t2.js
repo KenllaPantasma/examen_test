@@ -1,3 +1,17 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 6.2",
+  temario: {
+    general: [],
+    especifico: [
+      "26. Características botánicas, ecológicas y selvícolas de las principales angiospermas arbóreas españolas.",
+      "27. Pastos naturales españoles. Clasificación. Principales especies herbáceas. Principales sistemas de aprovechamiento.",
+      "28. La ganadería extensiva, su valor económico, ecológico y cultural. El catálogo Oficial de Razas de Ganado de España. Las vías pecuarias: la Ley 3/1995, de 23 de marzo, de vías pecuarias. El libro blanco de la Trashumancia.",
+      "29. Recursos cinegéticos, piscícolas y astacícolas. Técnicas de caza y especies cinegéticas. Principales actividades piscícolas. Normativa, ordenación y planes. Normativa en materia de sanidad de la fauna silvestre y cinegética. Junta Nacional de Homologación de Trofeos de Caza. Estrategia Nacional de Gestión Cinegética."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

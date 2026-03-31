@@ -1,3 +1,18 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 3.1",
+  temario: {
+    general: [
+      "9. Los contratos del Sector Público. Concepto y tipos. Sus elementos y procedimientos de adjudicación. Su cumplimiento. La revisión de precios y otras modificaciones contractuales. Incumplimiento de los contratos administrativos.",
+      "10. El personal al servicio de las Administraciones Públicas. Régimen jurídico. El Estatuto Básico del Empleado Público. Derechos y deberes del personal al servicio de la Administración Pública. Incompatibilidades."
+    ],
+    especifico: [
+      "9. La planificación forestal en España: Plan Forestal Español 2022-2032. Ejes y líneas de acción. Tipología de medidas, con especial mención a las medidas prioritarias. Indicadores de seguimiento. Mención a los planes forestales de las comunidades autónomas. Los Planes de Ordenación de Recursos Forestales. Directrices básicas comunes de gestión forestal sostenible.",
+      "10. Organismos internacionales para la conservación de la naturaleza. El PNUMA, UICN y el Programa MaB y las Reservas de la Biosfera. Desarrollo y aplicación en España. Instituciones europeas relacionadas con el medio ambiente y la política forestal. La Agencia Europea de Medio Ambiente."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

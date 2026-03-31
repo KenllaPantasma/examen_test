@@ -1,3 +1,18 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 2.2",
+  temario: {
+    general: [
+      "7. El procedimiento administrativo: concepto, naturaleza y caracterización. Fases del procedimiento administrativo. La revisión de actos en vía administrativa. La jurisdicción contencioso-administrativa.",
+      "8. Presupuestos Generales del Estado: estructura y contenido. Elaboración y aprobación. Modificaciones presupuestarias. El control de la actividad financiera en España. El Tribunal de Cuentas."
+    ],
+    especifico: [
+      "7. Instrumentos Financieros de la Unión Europea aplicables al sector forestal. Los Fondos Estructurales y de Inversión europeos (EIE). Consideraciones generales. La política agrícola común europea. Medidas forestales y agroambientales en la política europea de desarrollo rural. Aplicación en España. El sector forestal y el medio ambiente en la PAC. Plan Estratégico de la PAC post-2020, aspectos medioambientales y su aplicación en España.",
+      "8. Estrategia Forestal Española horizonte 2050: metas y objetivos generales. Ejes estratégicos, líneas de acción y orientaciones estratégicas. Diagnóstico. El Plan Estratégico Estatal del Patrimonio Natural y la Biodiversidad."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

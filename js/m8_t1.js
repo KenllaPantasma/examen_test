@@ -1,3 +1,17 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 8.1",
+  temario: {
+    general: [],
+    especifico: [
+      "38. Incendios Forestales: Incidencia en España. Causalidad y distribución geográfica. Técnicas y métodos de prevención, detección y extinción. Medios y recursos. El dispositivo de apoyo del Ministerio para la Transición Ecológica y el Reto Demográfico. Estadísticas y valoración de pérdidas.",
+      "39. Sanidad forestal: principales enfermedades, plagas forestales y daños en España. Intervenciones, medidas culturales, preventivas y terapéuticas. Tratamientos biológicos. Organismos de cuarentena. Redes de seguimiento de daños en los bosques. Registro de Productos Fitosanitarios.",
+      "40. La desertificación. Factores físicos y socioeconómicos. La Estrategia Nacional de Lucha contra la Desertificación. La erosión hídrica y superficial de los suelos. Tipos, factores y modelos de evaluación. Problemática en España. El Inventario Nacional de Erosión de Suelos. La Estrategia de la UE para la Protección del Suelo para 2030.",
+      "41. La restauración ecológica. El Reglamento UE (2024/1991) relativo a la restauración de la naturaleza. Restauración hidrológico-forestal y corrección de cuencas. Ordenación agrohidrológica. Técnicas de restauración: Estructuras transversales y longitudinales, diseño y cálculo. Restauración del medio tras grandes incendios. Plan Nacional de Actuaciones Prioritarias de Restauración Hidrológico-Forestal."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

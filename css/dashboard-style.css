@@ -61,3 +61,32 @@ body {
     background: var(--forest-light);
     color: white;
 }
+
+.test-row {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.test-group {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.btn-info {
+    background: #ecf0f1;
+    border: 1px solid #bdc3c7;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-info:hover {
+    background: #dfe6e9;
+}

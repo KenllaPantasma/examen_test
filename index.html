@@ -34,24 +34,64 @@
         const totalModulos = 9;
         const grid = document.getElementById('modules-menu');
 
+        // Generar los módulos
         for (let i = 1; i <= totalModulos; i++) {
             const moduleCard = document.createElement('div');
             moduleCard.className = 'module-card';
             moduleCard.innerHTML = `
-            <h3>Módulo ${i}</h3>
-            <div class="test-buttons">
+        <h3>Módulo ${i}</h3>
+        <div class="test-row">
+            <div class="test-group">
                 <button onclick="irAlTest('m${i}_t1')">Test 1</button>
-                <button onclick="irAlTest('m${i}_t2')">Test 2</button>
+                <button class="btn-info" onclick="verTemas('m${i}_t1')">ℹ️</button>
             </div>
-        `;
+            <div class="test-group">
+                <button onclick="irAlTest('m${i}_t2')">Test 2</button>
+                <button class="btn-info" onclick="verTemas('m${i}_t2')">ℹ️</button>
+            </div>
+        </div>
+    `;
             grid.appendChild(moduleCard);
         }
 
         function irAlTest(id) {
-            // Si haces clic en Módulo 2 Test 2, esto genera: simulador.html#m2_t2
             window.location.href = `simulador.html#${id}`;
         }
 
+        // NUEVA FUNCIÓN: Carga el JS temporalmente para leer el temario
+        function verTemas(testId) {
+    window.informacionTest = null;
+    const tempScript = document.createElement('script');
+    tempScript.src = `js/${testId}.js?v=${new Date().getTime()}`;
+    
+    tempScript.onload = () => {
+        if (window.informacionTest && window.informacionTest.temario) {
+            const info = window.informacionTest.temario;
+            let mensaje = `📋 ${window.informacionTest.titulo.toUpperCase()}\n\n`;
+
+            // Si existen temas generales
+            if (info.general && info.general.length > 0) {
+                mensaje += `🔹 TEMARIO GENERAL:\n` + info.general.map(t => `  • ${t}`).join('\n') + `\n\n`;
+            }
+
+            // Si existen temas específicos
+            if (info.especifico && info.especifico.length > 0) {
+                mensaje += `🔸 TEMARIO ESPECÍFICO:\n` + info.especifico.map(t => `  • ${t}`).join('\n');
+            }
+
+            alert(mensaje);
+        } else {
+            alert("Información de temario no disponible.");
+        }
+        tempScript.remove();
+    };
+    
+    tempScript.onerror = () => {
+        alert("Error al cargar el archivo.");
+        tempScript.remove();
+    };
+    document.head.appendChild(tempScript);
+}
     </script>
 </body>
 

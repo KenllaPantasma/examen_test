@@ -1,3 +1,18 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 5.2",
+  temario: {
+    general: [
+      "19. El cambio climático. Evidencia científica del fenómeno. Respuesta internacional ante el cambio climático: la Convención Marco de Naciones Unidas sobre Cambio Climático, el Protocolo de Kioto y el Acuerdo de París. El Marco Europeo de lucha contra el cambio climático: el régimen jurídico del comercio de derechos de emisión, sectores difusos y LULUCF. Estrategia europea de adaptación. Normativa LULUCF a nivel europeo. Aplicación en España. La Ley 7/2021, de 20 de mayo, de cambio climático y transición energética."
+    ],
+    especifico: [
+      "19. Los ecosistemas forestales españoles: Bosques y otras formaciones mediterráneas. Características ecológicas, funcionales, distribución geográfica y fauna asociada.",
+      "20. Ecosistemas españoles: Bosques y otras formaciones de las Islas Canarias. Características ecológicas, funcionales, distribución geográfica y fauna asociada.",
+      "21. Ecosistemas españoles: Bosques de ribera, humedales, matorrales de montaña, vegetaciones esteparias: Características ecológicas, funcionales, distribución geográfica y fauna asociada."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

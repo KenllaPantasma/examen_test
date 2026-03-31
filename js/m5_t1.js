@@ -1,3 +1,18 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 5.1",
+  temario: {
+    general: [
+      "17. La Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad y sus modificaciones. Principios y elementos. Desarrollos normativos. La Ley 30/2014, de 3 de diciembre, de Parques Nacionales. El Real Decreto 389/2016, de 22 de octubre, por el que se aprueba el Plan Director de la Red de Parques Nacionales",
+      "18. Normativa sobre calidad y evaluación ambiental: Tipos, orígenes y características de la contaminación. La contaminación atmosférica: Normativa reguladora. La contaminación acústica: fuentes, tipos y medidas de prevención. La Evaluación Ambiental: Ley 21/2013, de 9 de diciembre, de evaluación ambiental. La normativa en materia de residuos. Normativa sobre responsabilidad medioambiental."
+    ],
+    especifico: [
+      "17. Características del medio físico en España. Geología general, geomorfología, clima y suelos.",
+      "18. Los ecosistemas forestales españoles: Bosques y otras formaciones atlánticas. Características ecológicas, funciones, distribución geográfica y fauna asociada."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

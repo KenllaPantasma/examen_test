@@ -1,3 +1,17 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 7.1",
+  temario: {
+    general: [],
+    especifico: [
+      "30. Producción de materiales forestales de reproducción: Sistemas de recogida, extracción, secado, almacenaje y conservación de frutos y semillas. Viveros: infraestructuras e instalaciones. Normativa sobre comercialización de materiales forestales de reproducción.",
+      "31. Ecosistemas fluviales y zonas húmedas: Componentes, funcionamiento y valoración de su integridad ambiental.",
+      "32. El medio marino y costero. Características y tipos. Gestión y principales problemas de conservación. Impactos del cambio climático. Riesgos de inundación en zonas costeras.",
+      "33. Restauración de ecosistemas fluviales: principios básicos, recuperación del régimen hidrológico, morfología y componentes bióticos. Índices de calidad fisicoquímicos y biológicos. Conservación de humedales: Plan estratégico para la conservación y uso racional de humedales."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

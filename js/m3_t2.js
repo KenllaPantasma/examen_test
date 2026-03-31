@@ -1,3 +1,18 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 3.2",
+  temario: {
+    general: [
+      "11. Las instituciones europeas: composición, funcionamiento y atribuciones. El ordenamiento jurídico de la Unión Europea. Sus fuentes. Derecho originario: los Tratados. Derecho derivado: Reglamentos, Directivas y Decisiones. Relaciones con el ordenamiento jurídico de los Estados miembros.",
+      "12. Políticas de Igualdad de Género. La Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad efectiva de mujeres y hombres. Políticas contra la violencia de género. La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género. La Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI. Régimen jurídico de la Dependencia. La Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia."
+    ],
+    especifico: [
+      "11. Convenios internacionales de conservación de la naturaleza: Bonn, Berna, Ramsar, Washington (CITES), Barcelona y OSPAR. Características, evolución y aplicación en España.",
+      "12. Fundamentos de la conservación de la biodiversidad en la Unión Europea. Las Directivas Hábitats 92/43/CEE y de Aves 2009/147/CE. Desarrollo y aplicación en España. La Red Europea Natura 2000. Relaciones entre los Espacios Protegidos Red Natura 2000 y los Espacios Naturales Protegidos."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

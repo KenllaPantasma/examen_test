@@ -1,3 +1,17 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 8.2",
+  temario: {
+    general: [],
+    especifico: [
+      "42. Repoblación forestal. Objetivos. Elección de especies. Métodos y técnicas de repoblación. Maquinaria. Impacto ambiental de las repoblaciones forestales. Forestación de tierras agrarias.",
+      "43. Principales tratamientos selvícolas de monte alto, monte bajo y monte medio. Cortas continuas, semicontinuas y discontinuas. Tratamientos parciales, complementarios y derivados. Transformaciones y conversiones.",
+      "44. Ordenación de montes arbolados. Objetivos. División dasocrática. Inventario. Estimación de existencias y crecimientos. Estructura de un proyecto de ordenación. Plan general, plan especial, planes anuales, revisiones. Métodos de ordenación en las masas forestales españolas según la forma principal de masa.",
+      "45. Aprovechamientos maderables. Apeo y extracciones de los productos maderables. Maquinaria a emplear. Vías de saca. Caminos forestales."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {

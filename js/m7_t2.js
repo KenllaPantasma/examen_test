@@ -1,3 +1,17 @@
+// Metadata del test para el index
+window.informacionTest = {
+  titulo: "Módulo 7.2",
+  temario: {
+    general: [],
+    especifico: [
+      "34. Información geográfica, fuentes de observación remota (ortofotos, teledetección y LIDAR), toma de datos con GPS. Programa COPERNICUS, su aplicación a las políticas ambientales.",
+      "35. El Inventario Forestal Nacional y el Mapa Forestal de España. La Información Forestal Española: características, contenido y principales magnitudes.",
+      "36. El Inventario Español del Patrimonio Natural y de la Biodiversidad: finalidad. características y contenido. El Banco de Datos de la Naturaleza.",
+      "37. Conservación y uso de recursos genéticos forestales. Principales iniciativas en el seno de Forest Europe y la FAO. Estrategia Española para la Conservación y el Uso Sostenible de los Recursos Genéticos Forestales: herramientas, medidas y planes de actuación. Programas de mejora y conservación."
+    ]
+  }
+};
+
 // Este archivo contiene todas tus preguntas
 window.bancoDePreguntas = [
   {
