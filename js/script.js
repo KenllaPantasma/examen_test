@@ -161,16 +161,40 @@ function corregirExamen() {
         }
     });
 
-    const notaFinal = Math.max(0, (aciertos * 1) - (fallos * 0.25));
+   // const notaBase = Math.max(0, (aciertos * 1) - (fallos * 0.25));
+   // 1. Cálculo de la Nota Base (Penalización 0.25)
+    const notaBase = aciertos - (fallos * 0.25);
+    
+    // 2. Cálculo de la Calificación del Ejercicio
+    // Fórmula: ((Nota - 39.50) * 20 / 60.50) + 20
+    let calificacionEjercicio = ((notaBase - 39.50) * 20) / 60.50 + 20;
 
-    document.getElementById('btn-submit').style.display = 'none';
+    // Aseguramos que la calificación no sea negativa por la resta de 39.50
+    if (calificacionEjercicio < 0) calificacionEjercicio = 0;
+
+    // 3. Interfaz de usuario
+    const btnSubmit = document.getElementById('btn-submit') || document.getElementById('btn-finalizar');
+    if (btnSubmit) btnSubmit.style.display = 'none';
+
     const panel = document.getElementById('resultado-panel');
     panel.style.display = 'block';
     panel.classList.remove('hidden');
 
-    document.getElementById('nota-display').textContent = notaFinal.toFixed(2);
-    document.querySelector('.total').textContent = `/ ${validas}`;
-    document.getElementById('desglose-display').innerHTML = `Aciertos: ${aciertos} | Fallos: ${fallos} | Blancos: ${blancos}`;
+    // Mostramos la Calificación del Ejercicio como nota principal
+    document.getElementById('nota-display').textContent = calificacionEjercicio.toFixed(2);
+    document.querySelector('.total').textContent = `/ 40.00`; // Calificación máxima según la fórmula
+
+    // Mostramos el desglose detallado incluyendo la Nota Bruta
+    document.getElementById('desglose-display').innerHTML = `
+        <div style="margin-top: 10px; border-top: 1px solid #ddd; padding-top: 10px;">
+            <p>Aciertos: ${aciertos} | Fallos: ${fallos} | Blancos: ${blancos}</p>
+            <p><strong>Nota Bruta:</strong> ${notaBase.toFixed(2)} / ${validas}</p>
+            <p style="font-size: 0.85rem; color: #666;">
+                Cálculo: ((${notaBase.toFixed(2)} - 39.50) * 20 / 60.50) + 20
+            </p>
+        </div>
+    `;
+
     panel.scrollIntoView({ behavior: 'smooth' });
 }
 
