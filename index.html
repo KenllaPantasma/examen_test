@@ -28,6 +28,20 @@
         </section>
 
         <div class="modules-grid" id="modules-menu"></div>
+        
+        <h2 style="margin-top: 40px; color: var(--forest-dark);">Temario General (Tests por Tema)</h2>
+        <div class="modules-grid">
+            <div class="module-card">
+                <h3>Tema 13</h3>
+                <p>Transparencia y LOPDGDD</p>
+                <div class="test-row">
+                    <div class="test-group">
+                        <button onclick="irAlTest('test_G_13')">Iniciar Test</button>
+                        <button class="btn-info" onclick="verTemas('test_G_13')">ℹ️</button>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <script>
@@ -60,38 +74,38 @@
 
         // NUEVA FUNCIÓN: Carga el JS temporalmente para leer el temario
         function verTemas(testId) {
-    window.informacionTest = null;
-    const tempScript = document.createElement('script');
-    tempScript.src = `js/${testId}.js?v=${new Date().getTime()}`;
-    
-    tempScript.onload = () => {
-        if (window.informacionTest && window.informacionTest.temario) {
-            const info = window.informacionTest.temario;
-            let mensaje = `📋 ${window.informacionTest.titulo.toUpperCase()}\n\n`;
+            window.informacionTest = null;
+            const tempScript = document.createElement('script');
+            tempScript.src = `js/${testId}.js?v=${new Date().getTime()}`;
 
-            // Si existen temas generales
-            if (info.general && info.general.length > 0) {
-                mensaje += `🔹 TEMARIO GENERAL:\n` + info.general.map(t => `  • ${t}`).join('\n') + `\n\n`;
-            }
+            tempScript.onload = () => {
+                if (window.informacionTest && window.informacionTest.temario) {
+                    const info = window.informacionTest.temario;
+                    let mensaje = `📋 ${window.informacionTest.titulo.toUpperCase()}\n\n`;
 
-            // Si existen temas específicos
-            if (info.especifico && info.especifico.length > 0) {
-                mensaje += `🔸 TEMARIO ESPECÍFICO:\n` + info.especifico.map(t => `  • ${t}`).join('\n');
-            }
+                    // Si existen temas generales
+                    if (info.general && info.general.length > 0) {
+                        mensaje += `🔹 TEMARIO GENERAL:\n` + info.general.map(t => `  • ${t}`).join('\n') + `\n\n`;
+                    }
 
-            alert(mensaje);
-        } else {
-            alert("Información de temario no disponible.");
+                    // Si existen temas específicos
+                    if (info.especifico && info.especifico.length > 0) {
+                        mensaje += `🔸 TEMARIO ESPECÍFICO:\n` + info.especifico.map(t => `  • ${t}`).join('\n');
+                    }
+
+                    alert(mensaje);
+                } else {
+                    alert("Información de temario no disponible.");
+                }
+                tempScript.remove();
+            };
+
+            tempScript.onerror = () => {
+                alert("Error al cargar el archivo.");
+                tempScript.remove();
+            };
+            document.head.appendChild(tempScript);
         }
-        tempScript.remove();
-    };
-    
-    tempScript.onerror = () => {
-        alert("Error al cargar el archivo.");
-        tempScript.remove();
-    };
-    document.head.appendChild(tempScript);
-}
     </script>
 </body>
 
