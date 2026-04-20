@@ -28,7 +28,15 @@
         </section>
 
         <div class="modules-grid" id="modules-menu"></div>
-        
+
+        <div id="download-container" style="text-align: center; margin: 20px 0; display: none;">
+            <a id="download-link" href="#" class="btn-start"
+                style="background-color: #2c5d3f; text-decoration: none; display: inline-block; padding: 10px 20px; border-radius: 8px; color: white;"
+                download>
+                <span id="download-text">📥 Descargar PDF</span>
+            </a>
+        </div>
+
         <h2 style="margin-top: 40px; color: var(--forest-dark);">Temario General (Tests por Tema)</h2>
         <div class="modules-grid">
             <div class="module-card">
@@ -79,29 +87,42 @@
             tempScript.src = `js/${testId}.js?v=${new Date().getTime()}`;
 
             tempScript.onload = () => {
-                if (window.informacionTest && window.informacionTest.temario) {
+                const container = document.getElementById('download-container');
+                const link = document.getElementById('download-link');
+                const text = document.getElementById('download-text');
+
+                if (window.informacionTest) {
+                    // 1. Personalizamos el botón con el nombre del módulo/test
+                    const nombreTest = window.informacionTest.titulo || testId;
+                    text.innerHTML = `📥 Descargar PDF: ${nombreTest}`;
+                    link.href = `pdf/${testId}.pdf`;
+                    container.style.display = 'block';
+
+                    // 2. Preparamos el mensaje del alert
                     const info = window.informacionTest.temario;
-                    let mensaje = `📋 ${window.informacionTest.titulo.toUpperCase()}\n\n`;
+                    let mensaje = `📋 ${nombreTest.toUpperCase()}\n\n`;
 
-                    // Si existen temas generales
-                    if (info.general && info.general.length > 0) {
-                        mensaje += `🔹 TEMARIO GENERAL:\n` + info.general.map(t => `  • ${t}`).join('\n') + `\n\n`;
+                    if (info && info.general && info.general.length > 0) {
+                        mensaje += `🔹 GENERAL:\n` + info.general.map(t => `  • ${t}`).join('\n') + `\n\n`;
                     }
-
-                    // Si existen temas específicos
-                    if (info.especifico && info.especifico.length > 0) {
-                        mensaje += `🔸 TEMARIO ESPECÍFICO:\n` + info.especifico.map(t => `  • ${t}`).join('\n');
+                    if (info && info.especifico && info.especifico.length > 0) {
+                        mensaje += `🔸 ESPECÍFICO:\n` + info.especifico.map(t => `  • ${t}`).join('\n');
                     }
 
                     alert(mensaje);
                 } else {
-                    alert("Información de temario no disponible.");
+                    // Si el JS no tiene el objeto informacionTest, usamos el ID del test como nombre
+                    text.innerHTML = `📥 Descargar PDF: ${testId}`;
+                    link.href = `pdf/${testId}.pdf`;
+                    container.style.display = 'block';
+                    alert("Información de temario detallada no disponible, pero puedes descargar el PDF.");
                 }
                 tempScript.remove();
             };
 
             tempScript.onerror = () => {
-                alert("Error al cargar el archivo.");
+                document.getElementById('download-container').style.display = 'none';
+                alert("No se encontró información para este test.");
                 tempScript.remove();
             };
             document.head.appendChild(tempScript);
