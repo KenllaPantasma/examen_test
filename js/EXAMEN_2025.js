@@ -282,1402 +282,1150 @@ window.bancoDePreguntas = [
   },
   {
     "id": 21,
-    "tema": 5,
-    "titulo_tema": "El sector forestal en los Convenios de Naciones Unidas sobre Cambio Climático, Diversidad Biológica y de Lucha contra la Desertificación",
+    "tema": 0,
+    "titulo_tema": "Conservación de recursos genéticos forestales",
     "categoria": "Temario Específico",
-    "enunciado": "¿Entre qué valores se debe encontrar el índice de aridez definido por la UNESCO (relación entre la precipitación anual y la evapotranspiración anual) para determinar las tierras áridas, semiáridas y subhúmedas secas, potencialmente afectadas por la desertificación, tal como indica el Convenio de Naciones Unidas de Lucha contra la desertificación?",
+    "enunciado": "Señale la respuesta INCORRECTA en relación con la conservación y uso de los recursos genéticos forestales en España:",
     "opciones": {
-      "a": "0,05 y 0,5.",
-      "b": "0,01 y 0,05.",
-      "c": "0,2 y 0,8.",
-      "d": "0,05 y 0,65."
+      "a": "El Real Decreto 159/2022, de 1 de marzo, sobre conservación de los recursos genéticos forestales y de la flora silvestre establece, en su artículo 3, que debe aprobarse el Plan Nacional de Conservación de Recursos Genéticos Forestales con objeto de dirigir las actuaciones que se efectúen de manera coordinada por las administraciones responsables y los agentes implicados en la conservación in situ y ex situ de dichos recursos.",
+      "b": "El Plan Nacional de Conservación de Recursos Genéticos Forestales (2024-2033) y el Plan Nacional de Mejora Genética Forestal (2024-2033), aprobados en julio de 2024 en la Conferencia Sectorial de Medio Ambiente, sustituyen a la Estrategia Española para la Conservación y el Uso Sostenible de los Recursos Genéticos Forestales, aprobada en la Conferencia Sectorial de Medio Ambiente de 7 de junio de 2010.",
+      "c": "Las unidades de conservación genética in situ incluidas en el Registro y Catálogo nacionales pasan a formar parte de la Red Nacional de unidades de conservación genética in situ y serán comunicadas periódicamente a la Red Europea, promovida por el Programa EUFORGEN, formando parte de esta red.",
+      "d": "Para las especies que no están reguladas por el Real Decreto 289/2003, de 7 de marzo sobre comercialización de los materiales forestales de reproducción, es de aplicación la Ley 30/2006, de 26 de julio, de semillas y plantas de vivero y de recursos filogenéticos, que establece como requisitos el etiquetado de los materiales de reproducción y su acompañamiento del correspondiente documento del proveedor."
+    },
+    "correcta": "b"
+  },
+  {
+    "id": 22,
+    "tema": 0,
+    "titulo_tema": "Materiales forestales de reproducción",
+    "categoria": "Temario Específico",
+    "enunciado": "Señale la respuesta CORRECTA relativa a las regiones de procedencia:",
+    "opciones": {
+      "a": "El método divisivo para la determinación de las regiones de procedencia de especies o géneros forestales ha conducido a la división del territorio nacional en 18 regiones de procedencia de las especies para las que se tenía un mayor conocimiento en cuanto a su distribución y patrones de variación.",
+      "b": "El Real Decreto 289/2003, de 7 de marzo, sobre comercialización de los materiales forestales de reproducción define como tipos de material de base para la producción de material forestal de reproducción: 1.º Frutos y semillas, 2.º Partes de plantas y 3.º Plantas.",
+      "c": "Los centros de la Red de Centros Nacionales de Recursos Genéticos Forestales (anteriormente Red de Centros Nacionales de Mejora Genética Forestal) se ubican en las regiones de procedencia que fueron definidas en la Estrategia Española para la Conservación y el Uso Sostenible de los Recursos Genéticos Forestales.",
+      "d": "La región de procedencia es, para una especie o subespecie determinadas, la zona o el grupo de zonas sujetas a condiciones ecológicas uniformes en las que se encuentran fuentes semilleras o rodales que presentan características fenotípicas o genéticas semejantes, teniendo en cuenta límites de altitud, cuando proceda."
     },
     "correcta": "d"
   },
   {
-    "id": 22,
-    "tema": 5,
-    "titulo_tema": "El sector forestal en los Convenios de Naciones Unidas sobre Cambio Climático, Diversidad Biológica y de Lucha contra la Desertificación",
-    "categoria": "Temario Específico",
-    "enunciado": "El Convenio de Naciones Unidas de Lucha contra la Desertificación se aplica, principalmente, a través de los siguientes instrumentos:",
-    "opciones": {
-      "a": "Programas de acción nacionales.",
-      "b": "Un programas de acción en cada anexo regional.",
-      "c": "Programas de acción nacionales coordinados regionalmente.",
-      "d": "Un programa de acción global."
-    },
-    "correcta": "a"
-  },
-  {
     "id": 23,
-    "tema": 5,
-    "titulo_tema": "El sector forestal en los Convenios de Naciones Unidas sobre Cambio Climático, Diversidad Biológica y de Lucha contra la Desertificación",
+    "tema": 0,
+    "titulo_tema": "Incendios forestales",
     "categoria": "Temario Específico",
-    "enunciado": "En relación con los Estados o entidades regionales que han ratificado hasta la fecha el Convenio de lucha contra la desertificación señale cuál es la opción correcta.",
+    "enunciado": "El Centro de Coordinación de la Información Nacional sobre Incendios Forestales (CCINIF):",
     "opciones": {
-      "a": "Unión Europea.",
-      "b": "Estados Unidos de América.",
-      "c": "Federación Rusa.",
-      "d": "Las tres respuestas anteriores son correctas."
+      "a": "Es el Órgano técnico, adscrito a la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, creado para la coordinación interadministrativa en materias de prevención y extinción. Se reúne dos veces al año, antes y después de la campaña estival, para coordinar actuaciones a nivel nacional y acordar el despliegue de los medios de extinción estatales.",
+      "b": "Se rige por el Acuerdo Interdepartamental que coordina la colaboración entre el Ministerio de Defensa (MINISDEF) y el Ministerio para la Transición Ecológica y el Reto Demográfico (MITERD) para establecer las condiciones de atención por el MINISDEF a las necesidades de operatividad, mantenimiento y disponibilidad de los medios aéreos de lucha contra incendios del MITERD.",
+      "c": "Se organiza en grupos de trabajo que acuerdan recomendaciones en materias de información, prevención, coordinación de medios aéreos, operaciones, sistema de mando de incidentes, formación y seguridad.",
+      "d": "Es el órgano de ámbito nacional que canaliza de forma centralizada y pone a disposición del conjunto de las administraciones públicas competentes, en tiempo real, toda la información disponible respecto a la evolución del riesgo de incendios forestales, los incendios forestales ocurridos o en curso, los medios materiales, técnicos y personales disponibles, y cualquier otra que aporte datos suficientes para la adopción de medidas de carácter preventivo."
     },
     "correcta": "d"
   },
   {
     "id": 24,
-    "tema": 5,
-    "titulo_tema": "El sector forestal en los Convenios de Naciones Unidas sobre Cambio Climático, Diversidad Biológica y de Lucha contra la Desertificación",
+    "tema": 0,
+    "titulo_tema": "Figuras de protección internacional",
     "categoria": "Temario Específico",
-    "enunciado": "La definición de degradación neutra de las tierras LDN se ha alcanzado en el seno de...:",
+    "enunciado": "La coordinación del desarrollo en España del Programa MaB (Hombre y Biosfera) de la UNESCO corre a cargo de:",
     "opciones": {
-      "a": "La Convención de las Naciones Unidas de lucha contra la Desertificación.",
-      "b": "Forest Europe.",
-      "c": "Silva Mediterránea.",
-      "d": "La UNESCO."
-    },
-    "correcta": "a"
-  },
-  {
-    "id": 25,
-    "tema": 5,
-    "titulo_tema": "El sector forestal en los Convenios de Naciones Unidas sobre Cambio Climático, Diversidad Biológica y de Lucha contra la Desertificación",
-    "categoria": "Temario Específico",
-    "enunciado": "¿Qué organización internacional actúa como mecanismo financiero del Convenio de Naciones Unidas de lucha contra la desertificación?",
-    "opciones": {
-      "a": "Mecanismo mundial del CNULD.",
-      "b": "Fondo para el Medio Ambiente Mundial (GEF) del PNUMA.",
-      "c": "Secretaría del CNULD.",
-      "d": "Asamblea de las Naciones Unidas para el Medio Ambiente."
+      "a": "La Dirección General de Biodiversidad, Bosques y Desertificación.",
+      "b": "El Organismo Autónomo de Parques Nacionales.",
+      "c": "La Fundación Biodiversidad.",
+      "d": "El Consejo Superior de Investigaciones Científicas (CSIC)."
     },
     "correcta": "b"
   },
   {
-    "id": 26,
-    "tema": 5,
-    "titulo_tema": "El sector forestal en los Convenios de Naciones Unidas sobre Cambio Climático, Diversidad Biológica y de Lucha contra la Desertificación",
+    "id": 25,
+    "tema": 0,
+    "titulo_tema": "Convenio CITES",
     "categoria": "Temario Específico",
-    "enunciado": "Indique el ámbito regional que cubre los países incluidos en el Anexo V del Convenio de Naciones Unidas de lucha contra la desertificación.",
+    "enunciado": "La Autoridad administrativa y órgano de gestión principal del Convenio CITES (Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres) en España es:",
     "opciones": {
-      "a": "Países del mediterráneo norte.",
-      "b": "Países de Europa central y oriental.",
-      "c": "Países latinoamericanos y del Caribe.",
-      "d": "Países asiáticos."
+      "a": "El Ministerio de Economía, Comercio y Empresa.",
+      "b": "El Consejo Superior de Investigaciones Científicas.",
+      "c": "La Dirección General de Comercio Internacional e Inversiones.",
+      "d": "La Dirección General de Biodiversidad, Bosques y Desertificación."
+    },
+    "correcta": "d"
+  },
+  {
+    "id": 26,
+    "tema": 0,
+    "titulo_tema": "Red Natura 2000",
+    "categoria": "Temario Específico",
+    "enunciado": "La descatalogación total o parcial de un espacio incluido en Red Natura 2000 sólo podrá proponerse cuando así lo justifiquen los cambios provocados en el mismo por la evolución natural, científicamente demostrada, reflejados en los resultados del seguimiento definido en el artículo 48 de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad. En todo caso, el procedimiento incorporará un trámite de información pública, previo a la remisión de la propuesta:",
+    "opciones": {
+      "a": "Al Parlamento Europeo.",
+      "b": "A la Comisión Europea.",
+      "c": "Al Consejo Europeo.",
+      "d": "Al Consejo de la Unión Europea."
     },
     "correcta": "b"
   },
   {
     "id": 27,
-    "tema": 5,
-    "titulo_tema": "El sector forestal en los Convenios de Naciones Unidas sobre Cambio Climático, Diversidad Biológica y de Lucha contra la Desertificación",
+    "tema": 0,
+    "titulo_tema": "Inventario Español del Patrimonio Natural y de la Biodiversidad",
     "categoria": "Temario Específico",
-    "enunciado": "Señale qué norma interna se utilizó para aprobar, en el año 2008, el programa de acción nacional español de lucha contra la desertificación.",
+    "enunciado": "¿Cuál de los siguientes es un componente prioritario del Inventario Español del Patrimonio Natural y de la Biodiversidad?",
     "opciones": {
-      "a": "Acuerdo de Consejo de Ministros.",
-      "b": "Orden Ministerial del entonces MARM.",
-      "c": "Resolución del entonces Director General de Medio Natural y Política Forestal.",
-      "d": "Todas las respuestas anteriores son incorrectas."
+      "a": "Estadística General de Incendios Forestales.",
+      "b": "Inventario Español de Caza y Pesca.",
+      "c": "Catálogo Español de Especies Exóticas Invasoras.",
+      "d": "Catálogo Español de Hábitats en Peligro de Desaparición."
     },
     "correcta": "a"
   },
   {
     "id": 28,
-    "tema": 5,
-    "titulo_tema": "El sector forestal en los Convenios de Naciones Unidas sobre Cambio Climático, Diversidad Biológica y de Lucha contra la Desertificación",
+    "tema": 0,
+    "titulo_tema": "Gobernanza del patrimonio natural",
     "categoria": "Temario Específico",
-    "enunciado": "¿Qué porcentaje, aproximadamente, del territorio nacional tiene la consideración de zona árida, semiárida y/o subhúmeda seca?",
+    "enunciado": "El Ministerio para la Transición Ecológica y el Reto Demográfico elaborará, en colaboración con las comunidades autónomas y, en su caso, otros órganos de la Administración General del Estado, el “Informe sobre el estado del Patrimonio Natural y de la Biodiversidad”, con periodicidad anual. Antes de hacerse público, será presentado:",
     "opciones": {
-      "a": "90%.",
-      "b": "75%",
-      "c": "74%.",
-      "d": "35%."
+      "a": "Solamente al Consejo Estatal para el Patrimonio Natural y la Biodiversidad.",
+      "b": "Solamente a la Comisión Estatal para el Patrimonio Natural y la Biodiversidad.",
+      "c": "Tanto a la Comisión Estatal para el Patrimonio Natural y la Biodiversidad como al Consejo Estatal para el Patrimonio Natural y la Biodiversidad.",
+      "d": "Sólo a la Conferencia Sectorial de Medio Ambiente."
     },
     "correcta": "c"
   },
   {
     "id": 29,
-    "tema": 5,
-    "titulo_tema": "El sector forestal en los Convenios de Naciones Unidas sobre Cambio Climático, Diversidad Biológica y de Lucha contra la Desertificación",
+    "tema": 0,
+    "titulo_tema": "Desertificación",
     "categoria": "Temario Específico",
     "enunciado": "Señale la respuesta CORRECTA. La Estrategia Nacional de Lucha contra la Desertificación:",
     "opciones": {
       "a": "Fue aprobada en 2022 y supone la actualización del Programa de Acción Nacional contra la Desertificación (PAND) de 2008.",
       "b": "Propone un marco de acciones organizadas en 10 Ejes y 30 Líneas de actuación.",
-      "c": "Ha sido elaborada por el Ministerio de Agricultura, Pesca y Alimentación (MAPA) en colaboración con el MITECO.",
+      "c": "Ha sido elaborada por el Ministerio de Agricultura, Pesca y Alimentación, en colaboración con los demás ministerios, en particular con el Ministerio para la Transición Ecológica y el Reto Demográfico, y con la participación de las comunidades autónomas, la comunidad científica, las organizaciones no gubernamentales y el resto de la sociedad a través de un procedimiento de participación pública.",
       "d": "Aún no ha sido aprobada."
     },
     "correcta": "a"
   },
   {
     "id": 30,
-    "tema": 5,
-    "titulo_tema": "El sector forestal en los Convenios de Naciones Unidas sobre Cambio Climático, Diversidad Biológica y de Lucha contra la Desertificación",
+    "tema": 0,
+    "titulo_tema": "Restauración hidrológico-forestal",
     "categoria": "Temario Específico",
-    "enunciado": "Según el Inventario Nacional de Erosión de Suelos (INES):",
+    "enunciado": "La aplicación y seguimiento del Plan Nacional de actuaciones prioritarias de restauración hidrológico-forestal corresponde:",
     "opciones": {
-      "a": "el 76 % del territorio los valores de erosión están por debajo de las 10 t/ha:año, es decir, el riesgo de que en esas superficies se produzcan procesos de degradación del suelo por erosión hídrica se puede calificar de bajo.",
-      "b": "En la mayor parte de esa superficie (el 58 % del total) las tasas de erosión estimadas están por encima de las 5 t/ha:año.",
-      "c": "hay algo más de un 10 % de la superficie nacional con procesos erosivos muy graves, por encima de 100 t/ha/año, lo que supone un total de algo más de 5 millones de hectáreas.",
-      "d": "Todas las anteriores son correctas."
+      "a": "Al Ministerio para la Transición Ecológica y el Reto Demográfico.",
+      "b": "A las comunidades autónomas.",
+      "c": "Al Ministerio para la Transición Ecológica y el Reto Demográfico y a las comunidades autónomas, en el ámbito de sus respectivas competencias, de acuerdo con el principio de coordinación.",
+      "d": "Al Ministerio de Agricultura, Pesca y Alimentación y a las comunidades autónomas, en el ámbito de sus respectivas competencias, de acuerdo con el principio de coordinación."
     },
     "correcta": "c"
   },
   {
     "id": 31,
-    "tema": 1,
-    "titulo_tema": "La Constitución Española de 1978",
-    "categoria": "Temario General",
-    "enunciado": "Según el artículo 1.1 de la Constitución Española, España se constituye en un Estado:",
+    "tema": 0,
+    "titulo_tema": "Repoblación forestal",
+    "categoria": "Temario Específico",
+    "enunciado": "Atendiendo a la Ley 43/2003, de 21 de noviembre, de Montes, una repoblación forestal es el establecimiento de especies forestales en un terreno mediante siembra o plantación. Puede ser forestación o reforestación. Indicar la opción CORRECTA:",
     "opciones": {
-      "a": "Social y democrático de Derecho.",
-      "b": "Social, liberal y de Derecho.",
-      "c": "Democrático, representativo y de Derecho.",
-      "d": "Social, autonómico y de Derecho."
+      "a": "Forestación: repoblación, mediante siembra o plantación, de un terreno que era agrícola o estaba dedicado a otros usos no forestales.",
+      "b": "Reforestación: repoblación, mediante siembra o plantación, de un terreno que era agrícola o estaba dedicado a otros usos no forestales.",
+      "c": "Forestación: reintroducción de especies forestales, mediante siembra o plantación, en terrenos que estuvieron poblados forestalmente hasta épocas recientes, pero que quedaron rasos a causa de talas, incendios, vendavales, plagas, enfermedades u otros motivos.",
+      "d": "Reforestación: introducción de especies forestales, mediante siembra o plantación, en terrenos que nunca estuvieron poblados forestalmente."
     },
     "correcta": "a"
   },
   {
     "id": 32,
-    "tema": 1,
-    "titulo_tema": "La Constitución Española de 1978",
-    "categoria": "Temario General",
-    "enunciado": "Según el artículo 66 de la Constitución Española, las Cortes Generales:",
+    "tema": 0,
+    "titulo_tema": "Parques Nacionales",
+    "categoria": "Temario Específico",
+    "enunciado": "¿Cuál de los siguientes instrumentos establece la planificación ordinaria de un parque nacional, según se regula en el Título IV de la Ley 30/2014, de 3 de diciembre, de Parques Nacionales?",
     "opciones": {
-      "a": "Representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado.",
-      "b": "Ejercen la potestad legislativa del Estado y controlan la acción del Gobierno.",
-      "c": "Tienen las demás competencias que les atribuya la Constitución.",
-      "d": "Todas las respuestas anteriores son correctas."
+      "a": "El Plan de Ordenación de los Recursos Naturales.",
+      "b": "El Plan Rector de Uso y Gestión.",
+      "c": "El Plan Director de la Red de Parques Nacionales.",
+      "d": "La Estrategia de Conservación, Gestión y Uso Público."
     },
-    "correcta": "d"
+    "correcta": "b"
   },
   {
     "id": 33,
-    "tema": 3,
-    "titulo_tema": "El Gobierno y la Administración",
-    "categoria": "Temario General",
-    "enunciado": "De acuerdo con el artículo 98 de la Constitución Española, el Gobierno se compone de:",
+    "tema": 0,
+    "titulo_tema": "Red Natura 2000",
+    "categoria": "Temario Específico",
+    "enunciado": "¿Qué contenido mínimo deben tener los planes o instrumentos de gestión de los espacios de la Red Natura 2000 de acuerdo con el artículo 46 de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad?",
     "opciones": {
-      "a": "El Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley.",
-      "b": "El Presidente, los Ministros y los Secretarios de Estado.",
-      "c": "El Presidente, el Consejo de Ministros y las Comisiones Delegadas del Gobierno.",
-      "d": "El Presidente y los Ministros exclusivamente."
+      "a": "Las medidas para mantener los espacios en un estado de conservación favorable, las medidas para evitar el deterioro de los hábitats naturales y de los hábitats de las especies y los objetivos de conservación del lugar.",
+      "b": "El ámbito territorial del plan de gestión, un inventario de hábitats and especies Red Natura 2000 y una descripción de las principales presiones, impactos y amenazas a los hábitats de interés comunitario.",
+      "c": "Una identificación de los valores vulnerables a la contaminación, un análisis de riesgos ante desastres naturales que puedan ocurrir y una relación de los usos regulados en el espacio.",
+      "d": "Todas las anteriores."
     },
     "correcta": "a"
   },
   {
     "id": 34,
-    "tema": 4,
-    "titulo_tema": "La organización territorial del Estado",
-    "categoria": "Temario General",
-    "enunciado": "Según el artículo 143 de la Constitución Española, en el ejercicio del derecho a la autonomía reconocido en el artículo 2 de la Constitución, las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica podrán acceder a su autogobierno y constituirse en:",
+    "tema": 0,
+    "titulo_tema": "Botánica y comunidades vegetales",
+    "categoria": "Temario Específico",
+    "enunciado": "¿Cuál de las siguientes formaciones vegetales esperaría usted encontrar en una zona degradada de bosque mixto atlántico?",
     "opciones": {
-      "a": "Comunidades Forales.",
-      "b": "Comunidades Autónomas.",
-      "c": "Regiones Autónomas.",
-      "d": "Entidades Territoriales Autónomas."
+      "a": "Landa.",
+      "b": "Tabaibal-cardonal.",
+      "c": "Garriga.",
+      "d": "A y C son correctas."
     },
-    "correcta": "b"
+    "correcta": "a"
   },
   {
     "id": 35,
-    "tema": 5,
-    "titulo_tema": "Las fuentes del Derecho Administrativo",
-    "categoria": "Temario General",
-    "enunciado": "Según la Constitución Española, las disposiciones del Gobierno que contengan legislación delegada recibirán el título de:",
+    "tema": 0,
+    "titulo_tema": "Ecosistemas forestales españoles",
+    "categoria": "Temario Específico",
+    "enunciado": "¿Cuál de las siguientes características es propia de los bosques atlánticos en España?:",
     "opciones": {
-      "a": "Leyes Orgánicas.",
-      "b": "Decretos-Leyes.",
-      "c": "Decretos Legislativos.",
-      "d": "Reglamentos."
+      "a": "Clima suave, con precipitaciones entorno a los 150 mm anuales.",
+      "b": "Predominancia de especies caducifolias.",
+      "c": "Suetan arcillosos y temperaturas extremas en invierno.",
+      "d": "Predominancia de especies xerófilas."
     },
-    "correcta": "c"
+    "correcta": "b"
   },
   {
     "id": 36,
-    "tema": 6,
-    "titulo_tema": "El acto administrativo: concepto, clases, y elementos",
-    "categoria": "Temario General",
-    "enunciado": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán:",
-    "opciones": {
-      "a": "Válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
-      "b": "Nulos de pleno derecho hasta su notificación.",
-      "c": "Anulables si no son motivados.",
-      "d": "Eficaces únicamente a partir de su publicación en el Boletín Oficial correspondiente."
-    },
-    "correcta": "a"
-  },
-  {
-    "id": 37,
-    "tema": 8,
-    "titulo_tema": "La responsabilidad patrimonial de las Administraciones Públicas",
-    "categoria": "Temario General",
-    "enunciado": "Los particulares tendrán derecho a ser indemnizados por las Administraciones Públicas correspondientes, de toda lesión que sufran en cualquiera de sus bienes y derechos, siempre que la lesión sea consecuencia del funcionamiento normal o anormal de los servicios públicos salvo en los casos de:",
-    "opciones": {
-      "a": "Fuerza mayor.",
-      "b": "Caso fortuito.",
-      "c": "Negligencia grave.",
-      "d": "Dolo del funcionario."
-    },
-    "correcta": "a"
-  },
-  {
-    "id": 38,
-    "tema": 11,
-    "titulo_tema": "El personal funcionario al servicio de las Administraciones Públicas",
-    "categoria": "Temario General",
-    "enunciado": "Según el texto refundido de la Ley del Estatuto Básico del Empleado Público, los funcionarios de carrera se agrupan en los siguientes grupos de clasificación profesional, de acuerdo con la titulación exigida para el acceso:",
-    "opciones": {
-      "a": "Grupos A, B y C.",
-      "b": "Grupos A, B, C, D y E.",
-      "c": "Subgrupos A1, A2, B, C1 y C2.",
-      "d": "Grupos I, II, III y IV."
-    },
-    "correcta": "a"
-  },
-  {
-    "id": 39,
-    "tema": 24,
-    "titulo_tema": "La propiedad forestal. El Catálogo de Montes de Utilidad Pública",
+    "tema": 0,
+    "titulo_tema": "Ecosistemas mediterráneos",
     "categoria": "Temario Específico",
-    "enunciado": "Según la Ley 43/2003, de Montes, los montes públicos que no sean de utilidad pública tienen la consideración de montes:",
+    "enunciado": "Los matorrales de Cistus ladanifer en ecosistemas mediterráneos españoles:",
     "opciones": {
-      "a": "Comunales.",
-      "b": "Patrimoniales.",
-      "c": "Demaniales.",
-      "d": "Protectores."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 40,
-    "tema": 24,
-    "titulo_tema": "La propiedad forestal. El Catálogo de Montes de Utilidad Pública",
-    "categoria": "Temario Específico",
-    "enunciado": "El Catálogo de Montes de Utilidad Pública es un registro público de carácter administrativo que depende de:",
-    "opciones": {
-      "a": "El Ministerio para la Transición Ecológica y el Reto Demográfico.",
-      "b": "Las Comunidades Autónomas.",
-      "c": "El Ministerio de Agricultura, Pesca y Alimentación.",
-      "d": "La Administración General del Estado."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 41,
-    "tema": 24,
-    "titulo_tema": "La propiedad forestal. El Catálogo de Montes de Utilidad Pública",
-    "categoria": "Temario Específico",
-    "enunciado": "La exclusión de un monte del Catálogo de Montes de Utilidad Pública, según la Ley de Montes, solo procederá:",
-    "opciones": {
-      "a": "Por pérdida de las características que motivaron su catalogación y se dictará por orden del Ministro para la Transición Ecológica y el Reto Demográfico.",
-      "b": "Cuando el monte haya sido objeto de un incendio forestal y se haya perdido su capacidad de regeneración.",
-      "c": "Por pérdida de las características que motivaron su catalogación y se dictará por acuerdo del órgano competente de la comunidad autónoma.",
-      "d": "Por decisión discrecional de la Administración titular del monte, previo informe favorable del órgano forestal."
+      "a": "Son indicadores de suelos con alto contenido en carbonatos y pH neutro a básico.",
+      "b": "Representan etapas de sucesión progresiva hacia bosques maduros de coníferas.",
+      "c": "Se caracterizan por ser etapas regresivas en áreas degradadas de suelos ácidos.",
+      "d": "Requieren precipitaciones superiores a 1000 mm anuales para su desarrollo óptimo."
     },
     "correcta": "c"
   },
   {
-    "id": 42,
-    "tema": 24,
-    "titulo_tema": "La propiedad forestal. El Catálogo de Montes de Utilidad Pública",
+    "id": 38,
+    "tema": 0,
+    "titulo_tema": "Ecosistemas insulares canarios",
     "categoria": "Temario Específico",
-    "enunciado": "De acuerdo con el artículo 18.4 de la Ley 43/2003, de Montes, la declaración de utilidad pública de un monte:",
+    "enunciado": "En cuanto a la fauna asociada a los ecosistemas de las Islas Canarias, ¿cuál de las siguientes especies cabría encontrar en los bosques de laurisilva?:",
     "opciones": {
-      "a": "Lleva implícita la declaración de interés social a efectos de expropiación forzosa de los terrenos colindantes.",
-      "b": "Lleva implícita la declaración de utilidad pública a efectos de expropiación forzosa de los bienes y derechos afectados, así como la de prevalencia del interés público forestal sobre otros intereses concurrentes.",
-      "c": "No implica la prevalencia sobre otros usos, debiendo realizarse un análisis de coste-beneficio en cada caso.",
-      "d": "Solo afecta a la gestión forestal, sin tener implicaciones en materia de expropiación."
+      "a": "El lagarto gigante de La Gomera (Gallotia bravoana), debido al importante componente en su dieta del madroño canario.",
+      "b": "El camachuelo trompetero (Bucanetes githagineus), que depende de los matorrales para encontrar su alimento principal, las semillas.",
+      "c": "La chocha perdiz (Scolopax rusticola), cuya dieta se basa en invertebrados que obtiene en el suelo fresco y rico en humus del bosque.",
+      "d": "El loro canario (Amazona canariensis), que habita esencialmente en los bosques de laurisilva y que se ve afectado por la disminución de la cobertura forestal en las islas."
     },
-    "correcta": "b"
+    "correcta": "c"
+  },
+  {
+    "id": 39,
+    "tema": 0,
+    "titulo_tema": "Endemismos de la flora española",
+    "categoria": "Temario Específico",
+    "enunciado": "La especie Paeonia cambessedesi es considerada un endemismo de:",
+    "opciones": {
+      "a": "La región macaronésica.",
+      "b": "Márgenes de ríos del norte de la península ibérica.",
+      "c": "Mallorca, Menorca y Cabrera.",
+      "d": "Se encuentra incluida en el Listado de Especies Silvestres en Régimen de Protección Especial y en su caso, en el Catálogo Español de Especies Amenazadas, pero no es considerada un endemismo."
+    },
+    "correcta": "c"
+  },
+  {
+    "id": 40,
+    "tema": 0,
+    "titulo_tema": "Conservación vegetal",
+    "categoria": "Temario Específico",
+    "enunciado": "La Estrategia Española de Conservación Vegetal 2014-2020, propone como uno de sus objetivos:",
+    "opciones": {
+      "a": "La conservación de los recursos fitogenéticos para la agricultura y la alimentación.",
+      "b": "Promover la protección y conservación de las especies exóticas.",
+      "c": "Contribuir a los cambios en composición y estructura de los ecosistemas.",
+      "d": "Inventariar, preservar y promover los conocimientos tradicionales de importancia para la conservación del patrimonio natural y la biodiversidad."
+    },
+    "correcta": "d"
+  },
+  {
+    "id": 41,
+    "tema": 0,
+    "titulo_tema": "Estado del patrimonio natural",
+    "categoria": "Temario Específico",
+    "enunciado": "Según el Informe Anual 2023 sobre el estado del Patrimonio Natural y de la Biodiversidad en España, ¿qué grupo faunístico presentó una evolución positiva en el periodo 1998-2023?:",
+    "opciones": {
+      "a": "Las especies de aves ligadas a los sistemas forestales.",
+      "b": "Las especies de aves ligadas a los ambientes agrícolas.",
+      "c": "Las especies de aves ligadas a medios arbustivos.",
+      "d": "Las aves asociadas a espacios costeros."
+    },
+    "correcta": "a"
+  },
+  {
+    "id": 42,
+    "tema": 0,
+    "titulo_tema": "Dinámica litoral",
+    "categoria": "Temario Específico",
+    "enunciado": "Indicar la respuesta CORRECTA. En relación con las playas, ¿qué características se asocian a un perfil disipativo?:",
+    "opciones": {
+      "a": "Se trata de playas de arenas medias a gruesa.",
+      "b": "Se observa un frente de playa muy marcado y con mucha pendiente.",
+      "c": "Se considera frecuentemente el perfil típico de la época estival.",
+      "d": "Se corresponde con playas de arena fina y zona de rompientes amplia."
+    },
+    "correcta": "d"
   },
   {
     "id": 43,
-    "tema": 24,
-    "titulo_tema": "La propiedad forestal. El Catálogo de Montes de Utilidad Pública",
+    "tema": 0,
+    "titulo_tema": "Gestión costera",
     "categoria": "Temario Específico",
-    "enunciado": "Según el artículo 22 de la Ley 43/2003, de Montes, los montes catalogados son:",
+    "enunciado": "¿Cuál de las siguientes zonas costeras españolas se encuentran en regresión debido principalmente a la reducción de los caudales sólidos fluviales?",
     "opciones": {
-      "a": "Inalienables, imprescriptibles e inembargables.",
-      "b": "Inalienables e imprescriptibles, pero pueden ser embargados por deudas de la Administración.",
-      "c": "Bienes de dominio público, pero pueden ser objeto de venta si media un expediente de desafectación.",
-      "d": "Bienes patrimoniales de las Administraciones Públicas."
-    },
-    "correcta": "a"
-  },
-  {
-    "id": 44,
-    "tema": 24,
-    "titulo_tema": "La propiedad forestal. El Catálogo de Montes de Utilidad Pública",
-    "categoria": "Temario Específico",
-    "enunciado": "En el caso de discrepancia entre los datos del Catálogo de Montes de Utilidad Pública y el Registro de la Propiedad, según la Ley de Montes:",
-    "opciones": {
-      "a": "Prevalecerá siempre lo establecido en el Registro de la Propiedad.",
-      "b": "Prevalecerá el Catálogo de Montes de Utilidad Pública mientras no medie sentencia judicial firme.",
-      "c": "Se procederá a la suspensión de la inscripción registral hasta que se aclare la discrepancia.",
-      "d": "Prevalecerán los datos de la cartografía catastral."
+      "a": "Las costas de la vertiente cantábrica.",
+      "b": "El Delta del Ebro y parte de la costa de Castellón y Valencia.",
+      "c": "Las costas del archipiélago canario.",
+      "d": "La franja litoral suratlántica."
     },
     "correcta": "b"
   },
   {
-    "id": 45,
-    "tema": 50,
-    "titulo_tema": "El Catastro Inmobiliario (I): Definición, ámbito y principios",
-    "categoria": "Temario General",
-    "enunciado": "El Catastro Inmobiliario es un registro administrativo que depende de:",
+    "id": 44,
+    "tema": 0,
+    "titulo_tema": "Plagas forestales",
+    "categoria": "Temario Específico",
+    "enunciado": "La Aphrophora salicina (Goeze) (cigarrita de espuma) es un insecto:",
     "opciones": {
-      "a": "El Ministerio de Hacienda.",
-      "b": "El Ministerio para la Transición Ecológica y el Reto Demográfico.",
-      "c": "El Ministerio de Vivienda y Agenda Urbana.",
-      "d": "Las Comunidades Autónomas en virtud de sus competencias exclusivas."
+      "a": "Defoliador que ataca principalmente a plantas del género Populus (chopos y álamos) y en España provoca daños importantes en plantaciones jóvenes de Populus alba.",
+      "b": "Perforador que ataca a plantas del género Ulmus, especialmente a las plantaciones maduras de álamo negro (Ulmus carpinifolia (Gleditsc)).",
+      "c": "Defoliador que ataca principalmente al abedul y al castaño. Su presencia en estas dos especies se detecta debido a la masa espumosa blanca que cubre a las ninfas durante su vida y que tiene un aspecto inconfundible.",
+      "d": "Chupador que ataca especialmente a los sauces y que en España ocasiona daños importantes en mimbreras, sobre todo en Salix americana (Hort)."
     },
-    "correcta": "a"
+    "correcta": "d"
+  },
+  {
+    "id": 45,
+    "tema": 0,
+    "titulo_tema": "Sanidad forestal",
+    "categoria": "Temario Específico",
+    "enunciado": "Cuál de las siguientes afirmaciones relativas a los organismos de cuarentena es INCORRECTA:",
+    "opciones": {
+      "a": "Los organismos de cuarentena son aquellos agentes nocivos o causantes de daño sobre la fauna y/o la vegetación, que no existen previamente en un lugar determinado y pueden ser introducidos en él a través de diferentes medios.",
+      "b": "En la actualidad, la actividad antrópica no se considera un factor de riesgo de introducción ni como medio de expansión, por lo que es más fácil controlar la propagación de estos organismos.",
+      "c": "Los países de la Unión Europea están obligados a prevenir la entrada y expansión de estos organismos de cuarentena, y para ello existe una detallada normativa a nivel europeo, nacional y regional que determina las medidas que deben adoptarse en cada caso.",
+      "d": "Existen organismos como la EPPO (Organización Europea para la Protección de Vegetal) cuya función es ayudar a los países miembros a identificar estos organismos, evaluar el riesgo potencial que presentan y hacer propuestas en lo referente a las medidas fitosanitarias que deben acometerse."
+    },
+    "correcta": "b"
   },
   {
     "id": 46,
-    "tema": 51,
-    "titulo_tema": "El Catastro Inmobiliario (II): Bienes, titulares y cartografía",
-    "categoria": "Temario General",
-    "enunciado": "A efectos catastrales, tienen la consideración de bienes inmuebles rústicos:",
+    "tema": 0,
+    "titulo_tema": "Aprovechamientos forestales",
+    "categoria": "Temario Específico",
+    "enunciado": "El sistema de resinación de pica de corteza se caracteriza por:",
     "opciones": {
-      "a": "Aquellos que no tengan la consideración de urbanos ni de características especiales.",
-      "b": "Exclusivamente los destinados a la explotación agrícola, ganadera o forestal.",
-      "c": "Todos los terrenos situados fuera de los núcleos de población.",
-      "d": "Los terrenos que así determine el planeamiento urbanístico municipal."
+      "a": "La realización de las picas o incisiones de forma transversal con la escoda y por la aplicación de un estimulante ácido, siempre previo descortezado del pino.",
+      "b": "La realización de incisiones desprendiendo finas láminas de madera de forma longitudinal, sin profundizar demasiado en el tronco, con una herramienta denominada hacha, gubia, rubia o azuela, consiguiendo así que por los canales resiníferos puestos al descubierto fluya la miera.",
+      "c": "La realización de incisiones longitudinales lo más amplias y profundas posibles en el tronco del pino, sin descortezado previo, La miera se desliza hacia la base del árbol y ahí se recoge en un pequeño hueco que previamente se ha excavado en el suelo.",
+      "d": "La realización de las picas o incisiones de forma transversal y por la aplicación de un estimulante biológico, sin descortezado previo del pino."
     },
     "correcta": "a"
   },
   {
     "id": 47,
-    "tema": 51,
-    "titulo_tema": "El Catastro Inmobiliario (II): Bienes, titulares y cartografía",
-    "categoria": "Temario General",
-    "enunciado": "El titular catastral es la persona natural o jurídica que:",
+    "tema": 0,
+    "titulo_tema": "Estadística forestal",
+    "categoria": "Temario Específico",
+    "enunciado": "Según los datos del Anuario de Estadística Forestal de 2022, señale cuál de las siguientes opciones es INCORRECTA:",
     "opciones": {
-      "a": "Ostente la propiedad del bien inmueble.",
-      "b": "Sea titular de un derecho real de usufructo o de superficie.",
-      "c": "Sea titular de una concesión administrativa sobre el bien inmueble o los servicios públicos a que se halle adscrito.",
-      "d": "Todas las respuestas anteriores son correctas."
+      "a": "La producción media de corcho en los últimos 20 años oscila entre las 45.000 y las 70.000 toneladas.",
+      "b": "La producción de corcho de 2022 fue algo mejor que la de 2021.",
+      "c": "Las cifras que se recogen en el Anuario de Estadística Forestal de 2022 son inferiores a la producción real de corcho debido fundamentalmente a la dificultad de obtener las cifras de extracción en la propiedad privada.",
+      "d": "La gran mayoría del corcho se extrae en montes públicos."
     },
     "correcta": "d"
   },
   {
     "id": 48,
-    "tema": 53,
-    "titulo_tema": "El valor catastral: concepto y componentes",
-    "categoria": "Temario General",
-    "enunciado": "El valor catastral de los bienes inmuebles se determinará aplicando:",
+    "tema": 0,
+    "titulo_tema": "Certificación forestal",
+    "categoria": "Temario Específico",
+    "enunciado": "Señale cuál de las siguientes afirmaciones sobre la certificación forestal de la cadena de custodia (Certificación CoC) es INCORRECTA:",
     "opciones": {
-      "a": "El valor de mercado exclusivamente.",
-      "b": "La ponencia de valores de cada municipio.",
-      "c": "El valor de referencia de la Dirección General del Catastro.",
-      "d": "El precio medio de venta en la zona durante los últimos cinco años."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 49,
-    "tema": 50,
-    "titulo_tema": "El Catastro Inmobiliario (I): Definición, ámbito y principios",
-    "categoria": "Temario General",
-    "enunciado": "La inscripción de los bienes inmuebles en el Catastro Inmobiliario es:",
-    "opciones": {
-      "a": "Voluntaria para los propietarios.",
-      "b": "Obligatoria y gratuita.",
-      "c": "Obligatoria y conlleva el pago de una tasa de inscripción.",
-      "d": "Solo obligatoria para los bienes inmuebles urbanos."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 50,
-    "tema": 53,
-    "titulo_tema": "El valor catastral: concepto y componentes",
-    "categoria": "Temario General",
-    "enunciado": "El Valor de Referencia de los inmuebles, que entró en vigor en 2022:",
-    "opciones": {
-      "a": "Es la base imponible del Impuesto sobre Bienes Inmuebles (IBI).",
-      "b": "Sustituye al valor catastral en todas sus funciones.",
-      "c": "Es la base imponible de los Impuestos sobre Sucesiones y Donaciones y sobre Transmisiones Patrimoniales.",
-      "d": "Se determina anualmente por el Ayuntamiento correspondiente."
+      "a": "Garantiza la trazabilidad de los productos provenientes de montes certificados con la certificación de Gestión Forestal Sostenible (GFS) a través de la cadena de suministro.",
+      "b": "Todas las entidades que forman parte de la cadena de suministro tienen que estar certificadas.",
+      "c": "La certificación CoC solo puede ser emitida por organismos y entes públicos de certificación forestal.",
+      "d": "La cadena de custodia es importante, ya que permite a los usuarios finales saber que los productos que compran son de origen ecológico y fabricados de forma sostenible."
     },
     "correcta": "c"
   },
   {
-    "id": 51,
-    "tema": 52,
-    "titulo_tema": "Los procedimientos de incorporación de bienes inmuebles al Catastro Inmobiliario",
-    "categoria": "Temario General",
-    "enunciado": "En el procedimiento de subsanación de discrepancias catastrales, si el interesado no presenta alegaciones en el plazo de 15 días tras la notificación de la propuesta de resolución:",
+    "id": 49,
+    "tema": 0,
+    "titulo_tema": "Regulación del comercio de madera",
+    "categoria": "Temario Específico",
+    "enunciado": "Señala cuál de las siguientes respuestas relativas a la certificación forestal y al Reglamento (UE) 995/2010 por el que se establecen las obligaciones de los agentes que comercializan madera y productos de la madera (EUTR), es INCORRECTA:",
     "opciones": {
-      "a": "Se dictará resolución declarando la caducidad del procedimiento.",
-      "b": "Se dictará resolución de acuerdo con la propuesta formulada.",
-      "c": "Se procederá al archivo de las actuaciones sin más trámite.",
-      "d": "Se abrirá un nuevo plazo extraordinario de 10 días."
+      "a": "PEFC (Programme for the Endorsement of Forest Certification) es una organización no gubernamental con certificación voluntaria. Es reconocido como el segundo programa de certificación más grande del mundo después de FSC®.",
+      "b": "El EUTR es un marco normativo obligatorio destinado a combatir la tala ilegal de madera.",
+      "c": "FSC® (Forest Stewardship Council®) es una organización independiente sin fines de lucro cuya misión principal es promover la gestión forestal responsable desde el punto de vista social y ambiental. La certificación FSC® es voluntaria.",
+      "d": "La certificación forestal FSC® y PEFC sustituyen el sistema de diligencia debida que los agentes EUTR tiene que establecer, aplicar y mantener sobre sus productos."
+    },
+    "correcta": "d"
+  },
+  {
+    "id": 50,
+    "tema": 0,
+    "titulo_tema": "Fiscalidad forestal",
+    "categoria": "Temario Específico",
+    "enunciado": "Según la Ley Reguladora de Haciendas Locales, ¿cuáles de los siguientes montes están exentos del Impuesto sobre Bienes Inmuebles (IBI)?:",
+    "opciones": {
+      "a": "Los montes vecinales en mano común.",
+      "b": "Los montes poblados con cualquier especie de crecimiento lento.",
+      "c": "Todos los montes, ya sean de titularidad pública o privada.",
+      "d": "Aquellos montes en los que se haya realizado una repoblación forestal, estarán exentos durante un periodo de 20 años, contados a partir del periodo impositivo siguiente a aquel en el que se finalice la plantación."
+    },
+    "correcta": "a"
+  },
+  {
+    "id": 51,
+    "tema": 0,
+    "titulo_tema": "Catastro Inmobiliario",
+    "categoria": "Temario Específico",
+    "enunciado": "El ámbito de aplicación del texto refundido de la Ley del Catastro Inmobiliario, aprobado por el Real Decreto Legislativo 1/2004 de 5 de marzo, es:",
+    "opciones": {
+      "a": "Todo el territorio nacional.",
+      "b": "Todo el territorio nacional, sin perjuicio de lo previsto en los regímenes forales especiales vigentes en el País Vasco y Navarra.",
+      "c": "Todo el territorio nacional sin perjuicio de lo previsto en los regímenes económicos especiales vigentes en el País Vasco y en Cataluña.",
+      "d": "Todo el territorio nacional sin perjuicio de lo previsto en los regímenes económicos especiales vigentes en las Ciudades Autónomas de Ceuta y Melilla."
     },
     "correcta": "b"
   },
   {
     "id": 52,
-    "tema": 53,
-    "titulo_tema": "El valor catastral: concepto y componentes",
-    "categoria": "Temario General",
-    "enunciado": "Las ponencias de valores en el ámbito catastral tienen por objeto:",
+    "tema": 0,
+    "titulo_tema": "Catastro Inmobiliario",
+    "categoria": "Temario Específico",
+    "enunciado": "Señale cuál de las siguientes opciones es INCORRECTA. A efectos catastrales tienen la consideración de bienes inmuebles de características especiales:",
     "opciones": {
-      "a": "Determinar el valor de mercado de cada inmueble de forma individualizada.",
-      "b": "Establecer los criterios, módulos y demás elementos necesarios para determinar el valor catastral.",
-      "c": "Fijar el tipo impositivo aplicable al Impuesto sobre Bienes Inmuebles.",
-      "d": "Recoger los criterios y valores para la determinación de los valores de referencia."
+      "a": "Los destinados a la producción de energía eléctrica y gas.",
+      "b": "Las centrales nucleares.",
+      "c": "Las autopistas, carreteras y túneles de peaje.",
+      "d": "Los campos de golf."
     },
     "correcta": "d"
   },
   {
     "id": 53,
-    "tema": 50,
-    "titulo_tema": "El Catastro Inmobiliario (I): Definición, ámbito y principios",
-    "categoria": "Temario General",
-    "enunciado": "De acuerdo con el Texto Refundido de la Ley del Catastro Inmobiliario, la colaboración entre el Catastro y el Registro de la Propiedad se articula principalmente a través de:",
+    "tema": 0,
+    "titulo_tema": "Catastro Inmobiliario",
+    "categoria": "Temario Específico",
+    "enunciado": "Señale cuál de los siguientes hechos, actos o negocios relativos a bienes inmuebles NO es objeto de declaración ante el Catastro Inmobiliario:",
     "opciones": {
-      "a": "El intercambio manual de certificaciones en papel.",
-      "b": "La inscripción obligatoria de la referencia catastral en el Registro de la Propiedad.",
-      "c": "La comunicación electrónica de los datos sobre fincas y la incorporación de la representación gráfica georreferenciada de las mismas.",
-      "d": "La fusión de ambos organismos en una única base de datos nacional."
+      "a": "La adquisición de la propiedad.",
+      "b": "La realización de nuevas construcciones.",
+      "c": "El alquiler de un local comercial.",
+      "d": "El cambio de cultivo o de aprovechamiento."
     },
     "correcta": "c"
   },
   {
     "id": 54,
-    "tema": 3,
-    "titulo_tema": "El Gobierno y la Administración. La Administración General del Estado",
-    "categoria": "Temario General",
-    "enunciado": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los órganos consultivos de la Administración General del Estado:",
+    "tema": 0,
+    "titulo_tema": "Edafología forestal",
+    "categoria": "Temario Específico",
+    "enunciado": "Entre los siguientes tipos de suelos, señalar cuál de ellos resulta más abundante en la Cornisa Cantábrica y Galicia.",
     "opciones": {
-      "a": "Tienen siempre carácter vinculante para el órgano que solicita el informe.",
-      "b": "Pueden ser órganos colegiados o unipersonales.",
-      "c": "Son creados por Orden Ministerial.",
-      "d": "Ejercen funciones de gestión directa en materias técnicas de su competencia."
+      "a": "Rankers.",
+      "b": "Vertisoles.",
+      "c": "Planosoles.",
+      "d": "Luvisoles."
     },
-    "correcta": "b"
+    "correcta": "a"
   },
   {
     "id": 55,
-    "tema": 3,
-    "titulo_tema": "El Gobierno y la Administración",
-    "categoria": "Temario General",
-    "enunciado": "El Real Decreto 503/2024, de 21 de mayo, por el que se desarrolla la estructura orgánica básica del Ministerio para la Transición Ecológica y el Reto Demográfico, establece que la Dirección General de Biodiversidad, Bosques y Desertificación depende de:",
-    "opciones": {
-      "a": "La Secretaría de Estado de Energía.",
-      "b": "La Secretaría de Estado de Medio Ambiente.",
-      "c": "La Subsecretaría de Transición Ecológica.",
-      "d": "Directamente de la Ministra."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 56,
-    "tema": 3,
-    "titulo_tema": "El Gobierno y la Administración",
-    "categoria": "Temario General",
-    "enunciado": "Dentro del Ministerio de Agricultura, Pesca y Alimentación, las competencias relativas a la sanidad forestal en coordinación con las Comunidades Autónomas corresponden a:",
-    "opciones": {
-      "a": "La Dirección General de Producciones y Mercados Agrarios.",
-      "b": "La Dirección General de Sanidad de la Producción Agroalimentaria y Bienestar Animal.",
-      "c": "La Secretaría General de Recursos Agrarios y Seguridad Alimentaria.",
-      "d": "La Dirección General de Biodiversidad, Bosques y Desertificación."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 57,
-    "tema": 17,
-    "titulo_tema": "La Ley 43/2003, de 21 de noviembre, de Montes",
+    "tema": 0,
+    "titulo_tema": "Climatología",
     "categoria": "Temario Específico",
-    "enunciado": "Según el artículo 12 de la Ley 43/2003, de Montes, los montes se clasifican por su titularidad en:",
+    "enunciado": "Aplicando el esquema de la clasificación climática de Köppen-Geiger, teniendo en cuenta los datos de temperatura y precipitación obtenidos en España en la última década del siglo XX y durante el siglo XXI ¿Cuál es el tipo de clima predominante en España?:",
     "opciones": {
-      "a": "Públicos y privados.",
-      "b": "Estatales, autonómicos y locales.",
-      "c": "Demaniales y patrimoniales.",
-      "d": "Catalogados y no catalogados."
-    },
-    "correcta": "a"
-  },
-  {
-    "id": 58,
-    "tema": 17,
-    "titulo_tema": "La Ley 43/2003, de 21 de noviembre, de Montes",
-    "categoria": "Temario Específico",
-    "enunciado": "Tienen la consideración de montes privados, según la Ley de Montes:",
-    "opciones": {
-      "a": "Los pertenecientes a personas físicas o jurídicas de derecho privado, ya sea individualmente o en proindiviso.",
-      "b": "Los montes vecinales en mano común.",
-      "c": "Los montes pertenecientes a entidades locales que no hayan sido declarados de utilidad pública.",
-      "d": "Las opciones a y b son correctas."
-    },
-    "correcta": "d"
-  },
-  {
-    "id": 59,
-    "tema": 17,
-    "titulo_tema": "La Ley 43/2003, de 21 de noviembre, de Montes",
-    "categoria": "Temario Específico",
-    "enunciado": "La gestión de los montes catalogados de utilidad pública cuya titularidad no sea de la comunidad autónoma corresponde a:",
-    "opciones": {
-      "a": "La comunidad autónoma, sin perjuicio de las facultades de disposición del titular.",
-      "b": "La entidad local titular del monte de forma exclusiva.",
-      "c": "El Estado, a través del Ministerio para la Transición Ecológica y el Reto Demográfico.",
-      "d": "Una empresa de gestión forestal contratada mediante concurso público por el titular."
-    },
-    "correcta": "a"
-  },
-  {
-    "id": 60,
-    "tema": 17,
-    "titulo_tema": "La Ley 43/2003, de 21 de noviembre, de Montes",
-    "categoria": "Temario Específico",
-    "enunciado": "El deslinde de los montes públicos, según la Ley de Montes, es el procedimiento administrativo mediante el cual se define:",
-    "opciones": {
-      "a": "La propiedad del monte frente a terceros.",
-      "b": "La posesión del monte por parte de la Administración.",
-      "c": "Los límites del monte y su estado posesorio.",
-      "d": "La superficie exacta del monte a efectos de su inscripción catastral."
+      "a": "Tipo A (tropical).",
+      "b": "Tipo B (seco).",
+      "c": "Tipo C (Latitudes medias).",
+      "d": "Tipo D (Continental)."
     },
     "correcta": "c"
   },
   {
-    "id": 61,
-    "tema": 17,
-    "titulo_tema": "La Ley 43/2003, de 21 de noviembre, de Montes",
+    "id": 57,
+    "tema": 0,
+    "titulo_tema": "Botánica forestal",
     "categoria": "Temario Específico",
-    "enunciado": "Las infracciones forestales se clasifican, según la Ley de Montes, en:",
+    "enunciado": "De las siguientes características de las coníferas, señalar cuál es INCORRECTA:",
     "opciones": {
-      "a": "Leves y graves.",
-      "b": "Leves, graves y muy graves.",
-      "c": "Infracciones de mera actividad e infracciones de resultado.",
-      "d": "Administrativas y penales."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 62,
-    "tema": 17,
-    "titulo_tema": "La Ley 43/2003, de 21 de noviembre, de Montes",
-    "categoria": "Temario Específico",
-    "enunciado": "El plazo de prescripción de las infracciones forestales muy graves, según la Ley de Montes, es de:",
-    "opciones": {
-      "a": "1 año.",
-      "b": "2 años.",
-      "c": "3 años.",
-      "d": "5 años."
+      "a": "Todas las Pinaceae tienen hojas aciculares o lineares, dispuestas en braquiblastos (en número variable) o en los macroblastos en forma helicoidal o dística y conos femeninos leñosos.",
+      "b": "Todas las Taxaceae no tienen conos femeninos y su semilla tiene epimacio.",
+      "c": "Todas las Cupressaceae tienen hojas escuamiformes en posición opuesta decusada; o lineares en verticilos de 3, o dísticas y conos femeninos tipo gálbulo o arcéstida.",
+      "d": "Todas las Laricoideae son especies con hojas perennes aciculares, en grupos de fascículos sobre braquiblastos."
     },
     "correcta": "d"
   },
   {
-    "id": 63,
-    "tema": 17,
-    "titulo_tema": "La Ley 43/2003, de 21 de noviembre, de Montes",
+    "id": 58,
+    "tema": 0,
+    "titulo_tema": "Ordenación cinegética",
     "categoria": "Temario Específico",
-    "enunciado": "La ejecución subsidiaria de las resoluciones sancionadoras en materia de montes, cuando el infractor no proceda a la reparación del daño, se realizará:",
+    "enunciado": "Indicar cuál de las siguientes especies está protegida y por tanto excluida del listado de especies cinegéticas:",
     "opciones": {
-      "a": "A costa del infractor.",
-      "b": "A cuenta de los presupuestos de la comunidad autónoma.",
-      "c": "Mediante la incautación de las fianzas depositadas.",
-      "d": "Solo si existe una sentencia judicial que lo autorice."
+      "a": "Arruí (Ammotragus lervia).",
+      "b": "Avefría (Vanellus vanellus).",
+      "c": "Cerceta pardilla (Marmaronetta angustirostris).",
+      "d": "Zorzal real (Turdus pilaris)."
+    },
+    "correcta": "c"
+  },
+  {
+    "id": 59,
+    "tema": 0,
+    "titulo_tema": "Materiales forestales de reproducción",
+    "categoria": "Temario Específico",
+    "enunciado": "Señale la opción INCORRECTA. En la recolección de los materiales forestales de reproducción de las especies reguladas para las que se hayan establecido los correspondientes catálogos de material de base:",
+    "opciones": {
+      "a": "Todo recolector que se proponga recoger frutos, semillas y partes de plantas de material de base autorizado deberá notificar con la antelación suficiente al órgano competente de la respectiva comunidad autónoma la intención de proceder a dicha recolección.",
+      "b": "Cuando termine la recolección de frutos, semillas o partes de plantas solicitada, el recolector deberá informar por escrito al órgano competente de la respectiva comunidad autónoma sobre la cantidad de material recolectado.",
+      "c": "En el caso de extracción de semillas, el proveedor deberá informar por escrito al mencionado órgano, antes de proceder a su comercialización, sobre las cantidades obtenidas según lotes, con indicación de la identidad y la cantidad del lote de fruto del que proceden.",
+      "d": "En el caso de producción de plantas, el proveedor comunicará por escrito a dicho órgano las cantidades de planta que se han producido, según lotes, indicando la identidad de los lotes de semilla o de partes de planta de los que derivan y la cantidad de kilogramos de semilla o el número de elementos de multiplicación empleados en su producción."
+    },
+    "correcta": "d"
+  },
+  {
+    "id": 60,
+    "tema": 0,
+    "titulo_tema": "Materiales forestales de reproducción",
+    "categoria": "Temario Específico",
+    "enunciado": "En la comercialización de materiales forestales de reproducción, para la correcta identificación de cada lote es innecesario indicar los siguientes datos:",
+    "opciones": {
+      "a": "Código de España y número del certificado patrón.",
+      "b": "Si está genéticamente modificado.",
+      "c": "En el caso de frutos y semillas, el año de maduración.",
+      "d": "Todos los datos señalados en las opciones anteriores son necesarios."
+    },
+    "correcta": "d"
+  },
+  {
+    "id": 61,
+    "tema": 0,
+    "titulo_tema": "Política Agrícola Común",
+    "categoria": "Temario Específico",
+    "enunciado": "Señale la respuesta CORRECTA. La política agrícola común (PAC) ¿puede financiar actuaciones en el sector forestal?:",
+    "opciones": {
+      "a": "Sí, pero restringidas a la puesta en marcha de nuevas empresas rurales vinculadas a la agricultura o la silvicultura, tal y como establece el artículo 75 del Reglamento (UE) 2021/2115 del Parlamento Europeo y el Consejo de 2 de diciembre de 2021 por el que se establecen normas en relación con la ayuda a los planes estratégicos que deben elaborar los Estados miembros en el marco de la política agrícola común (planes estratégicos de la PAC), financiada con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de Desarrollo Rural (Feader), y por el que se derogan los Regulamentos (UE) 1305/2013 y (UE) 1307/2013.",
+      "b": "No, en ningún caso pueden destinarse ayudas de la PAC para la financiación de actuaciones del sector forestal, según las disposiciones del Reglamento (UE) 2021/2115 del Parlamento Europeo y el Consejo de 2 de diciembre de 2021 por el que se establecen normas en relación con la ayuda a los planes estratégicos que deben elaborar los Estados miembros en el marco de la política agrícola común (planes estratégicos de la PAC), financiada con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de Desarrollo Rural (Feader), y por el que se derogan los Regulamentos (UE) 1305/2013 y (UE) 1307/2013.",
+      "c": "Sí, entre ellas, las que se señalan en el Artículo 73. Inversiones, del Reglamento (UE) 2021/2115 del Parlamento Europeo y el Consejo de 2 de diciembre de 2021 por el que se establecen normas en relación con la ayuda a los planes estratégicos que deben elaborar los Estados miembros en el marco de la política agrícola común (planes estratégicos de la PAC), financiada con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de Desarrollo Rural (Feader), y por el que se derogan los Regulamentos (UE) 1305/2013 y (UE) 1307/2013.",
+      "d": "Sí, si así lo decide la Comisión Europea."
+    },
+    "correcta": "c"
+  },
+  {
+    "id": 62,
+    "tema": 0,
+    "titulo_tema": "Sanidad forestal y productos fitosanitarios",
+    "categoria": "Temario Específico",
+    "enunciado": "Para la consecución de los objetivos de la Directiva 2009/128/EC se elabora un Plan de Acción Nacional para el Uso Sostenible de los Productos Fitosanitarios. Señale la respuesta CORRECTA:",
+    "opciones": {
+      "a": "El Ministerio de Agricultura y Pesca, Alimentación coordina la elaboración del “Plan de Acción Nacional para el Uso Sostenible de los Productos Fitosanitarios”, junto con las comunidades autónomas y con otros departamentos de la Administración General del Estado, que asumen parte del plan en el ejercicio de sus competencias.",
+      "b": "El Ministerio para la Transición Ecológica y el Reto Demográfico coordina la elaboración del “Plan de Acción Nacional para el Uso Sostenible de los Productos Fitosanitarios”, junto con las comunidades autónomas y con otros departamentos de la Administración General del Estado que asumen parte del plan en el ejercicio de sus competencias.",
+      "c": "El Ministerio de Sanidad coordina la elaboración del “Plan de Acción Nacional para el Uso Sostenible de los Productos Fitosanitarios”, junto con las comunidades autónomas y con otros departamentos de la Administración General del Estado, que asumen parte del plan en el ejercicio de sus competencias.",
+      "d": "El Ministerio de Derechos Sociales, Consumo y Agenda 2030 coordina la elaboración del “Plan de Acción Nacional para el Uso Sostenible de los Productos Fitosanitarios”, junto con las comunidades autónomas y con otros departamentos de la Administración General del Estado, que asumen parte del plan en el ejercicio de sus competencias."
     },
     "correcta": "a"
   },
   {
-    "id": 64,
-    "tema": 17,
-    "titulo_tema": "La Ley 43/2003, de 21 de noviembre, de Montes",
+    "id": 63,
+    "tema": 0,
+    "titulo_tema": "Sanidad forestal y productos fitosanitarios",
     "categoria": "Temario Específico",
-    "enunciado": "De acuerdo con el artículo 15 de la Ley 43/2003, de Montes, las ocupaciones en montes catalogados:",
+    "enunciado": "Referido al uso de plaguicidas, ¿qué es el plazo de seguridad?:",
     "opciones": {
-      "a": "Están prohibidas en todo caso.",
-      "b": "Requieren concesión administrativa previa y solo para fines de interés público.",
-      "c": "Solo pueden realizarse por un periodo máximo de 5 años.",
-      "d": "No requieren autorización si son realizadas por el titular del monte."
+      "a": "Es el periodo de tiempo en el que la utilización de un plaguicida garantiza su máxima eficacia frente a los organismos nocivos.",
+      "b": "Es el periodo de tiempo que debe transcurrir para que la utilización de un producto fitosanitario sea segura para la salud humana.",
+      "c": "Es el período de tiempo que debe transcurrir desde la aplicación de un plaguicida a vegetales, animales o sus productos hasta la recolección o aprovechamiento de los mismos o, en su caso, hasta la entrada en las áreas o recintos tratados.",
+      "d": "Es el periodo de tiempo en el que un plaguicida conserva todas sus características para su aplicación a vegetales, animales o sus productos."
+    },
+    "correcta": "c"
+  },
+  {
+    "id": 64,
+    "tema": 0,
+    "titulo_tema": "Restauración de ecosistemas fluviales",
+    "categoria": "Temario Específico",
+    "enunciado": "En el contexto de la restauración de los ecosistemas fluviales, la restauración incluye el conjunto de acciones destinadas a:",
+    "opciones": {
+      "a": "Restablecer y a recuperar la integridad ecológica de los ecosistemas fluviales, incluyendo tanto la estructura, los procesos y las funciones como los servicios ecosistémicos propios del sistema fluvial.",
+      "b": "Restablecer y a recuperar los procesos hidrológicos y geomorfológicos propios de cada tipología y condición de río.",
+      "c": "Restablecer y a recuperar la integridad ecológica de los ecosistemas fluviales, incluyendo la estructura, los procesos y las funciones del sistema fluvial.",
+      "d": "Restablecer y recuperar las alteraciones hidromorfológicas antrópicas existentes en los tramos de un río."
+    },
+    "correcta": "a"
+  },
+  {
+    "id": 65,
+    "tema": 0,
+    "titulo_tema": "Conservación de humedales",
+    "categoria": "Temario Específico",
+    "enunciado": "Los humedales son espacios especialmente vulnerables a las presiones e impactos. Con relación a su restauración: ¿cuál de las siguientes afirmaciones es CORRECTA?:",
+    "opciones": {
+      "a": "Due to a la multiplicidad de factores de degradación y con independencia de las medidas de rehabilitación que se apliquen, la restauración de un humedal no es viable.",
+      "b": "La restauración solo es posible si los factores de degradación afectan al componente biótico del humedal.",
+      "c": "Las presiones e impactos provenientes del sector industrial y del turismo son mayores que las provenientes del sector agrícola y la alteración de los regímenes hídricos.",
+      "d": "La potencialidad de restauración es muy elevada en cuando se aplican medidas de rehabilitación adecuadas, ya que son capaces de responder de manera favorable y muy rápida."
+    },
+    "correcta": "d"
+  },
+  {
+    "id": 67,
+    "tema": 0,
+    "titulo_tema": "Tratamientos selvícolas",
+    "categoria": "Temario Específico",
+    "enunciado": "Señale la respuesta CORRECTA. El trasmoche:",
+    "opciones": {
+      "a": "Es un tratamiento selvícola que tiene por objeto promover la persistencia de la masa.",
+      "b": "Es un tratamiento selvícola que mantiene o conduce a masas regulares, semirregulares e incluso regulares con tres clases de edad.",
+      "c": "Es un tratamiento silvopascícola utilizado habitualmente para conseguir ramas y hojas para el ganado.",
+      "d": "Es un tipo de poda de las ramas propio de las especies arbóreas tropicales."
+    },
+    "correcta": "c"
+  },
+  {
+    "id": 68,
+    "tema": 0,
+    "titulo_tema": "Ordenación de montes",
+    "categoria": "Temario Específico",
+    "enunciado": "Señale la respuesta CORRECTA. En la ordenación de montes arbolados, la clasificación de la forma principal de masa se realiza atendiendo:",
+    "opciones": {
+      "a": "Al modo de reproducción o regeneración de la masa.",
+      "b": "A la estructura y distribución de edades de la masa.",
+      "c": "Al temperamento de las especies de la masa.",
+      "d": "A los taxones presentes en la masa."
     },
     "correcta": "b"
   },
   {
-    "id": 65,
-    "tema": 24,
-    "titulo_tema": "La propiedad forestal. El Catálogo de Montes de Utilidad Pública",
-    "categoria": "Temario Específico",
-    "enunciado": "La inmatriculación de montes públicos en el Registro de la Propiedad, según la Ley de Montes, se realizará mediante:",
-    "opciones": {
-      "a": "Certificación administrativa expedida por el órgano competente.",
-      "b": "Escritura pública ante notario necesariamente.",
-      "c": "Sentencia judicial firme exclusivamente.",
-      "d": "Mediante la mera inscripción catastral."
-    },
-    "correcta": "a"
-  },
-  {
-    "id": 66,
-    "tema": 24,
-    "titulo_tema": "La propiedad forestal. El Catálogo de Montes de Utilidad Pública",
-    "categoria": "Temario Específico",
-    "enunciado": "Los montes vecinales en mano común tienen una naturaleza jurídica especial, siendo:",
-    "opciones": {
-      "a": "Montes privados de titularidad colectiva.",
-      "b": "Montes públicos pertenecientes a las entidades locales.",
-      "c": "Montes privados de titularidad municipal.",
-      "d": "Bienes de dominio público del Estado."
-    },
-    "correcta": "a"
-  },
-  {
-    "id": 67,
-    "tema": 24,
-    "titulo_tema": "La propiedad forestal. El Catálogo de Montes de Utilidad Pública",
-    "categoria": "Temario Específico",
-    "enunciado": "Según la Ley 55/1980, de Montes Vecinales en Mano Común, estos montes son:",
-    "opciones": {
-      "a": "Indivisibles, inalienables, imprescriptibles e inembargables.",
-      "b": "Bienes patrimoniales de los vecinos que pueden ser vendidos por acuerdo de la mayoría.",
-      "c": "Propiedad de los Ayuntamientos que deben destinarlos al uso común.",
-      "d": "Sujetos a las mismas reglas que los montes públicos de utilidad pública."
-    },
-    "correcta": "a"
-  },
-  {
-    "id": 68,
-    "tema": 17,
-    "titulo_tema": "La Ley 43/2003, de 21 de noviembre, de Montes",
-    "categoria": "Temario Específico",
-    "enunciado": "El aprovechamiento de los recursos forestales en los montes vecinales en mano común corresponde a:",
-    "opciones": {
-      "a": "La comunidad vecinal titular del monte.",
-      "b": "El Ayuntamiento donde se ubique el monte.",
-      "c": "La comunidad autónoma competente.",
-      "d": "Cualquier ciudadano que solicite el permiso correspondiente."
-    },
-    "correcta": "a"
-  },
-  {
     "id": 69,
-    "tema": 17,
-    "titulo_tema": "La Ley 43/2003, de 21 de noviembre, de Montes",
+    "tema": 0,
+    "titulo_tema": "Aprovechamientos maderables",
     "categoria": "Temario Específico",
-    "enunciado": "La Ley de Montes define el aprovechamiento forestal como:",
+    "enunciado": "Con relación a los aprovechamientos maderables, señale cuál de las siguientes opciones se considera una forma de comercialización de la madera en rollo:",
     "opciones": {
-      "a": "Toda utilización de los recursos del monte, ya sean maderables o no maderables, incluidos los pastos, la caza y los usos recreativos.",
-      "b": "Exclusivamente la tala de árboles para la obtención de madera y leñas.",
-      "c": "La gestión económica de los productos del monte por parte de empresas adjudicatarias.",
-      "d": "La realización de trabajos de selvicultura preventiva en el monte."
+      "a": "Subasta.",
+      "b": "Concurso.",
+      "c": "Consorcio.",
+      "d": "Todas las anteriores."
     },
-    "correcta": "a"
+    "correcta": "d"
   },
   {
     "id": 70,
-    "tema": 17,
-    "titulo_tema": "La Ley 43/2003, de 21 de noviembre, de Montes",
+    "tema": 0,
+    "titulo_tema": "Aprovechamientos maderables",
     "categoria": "Temario Específico",
-    "enunciado": "En el caso de aprovechamientos maderables en montes privados, la Ley de Montes establece con carácter general la necesidad de:",
+    "enunciado": "La fase de desembosque en un aprovechamiento forestal maderable comprende:",
     "opciones": {
-      "a": "Autorización previa o notificación al órgano forestal de la comunidad autónoma.",
-      "b": "Licencia municipal de obras y actividades.",
-      "c": "Informe favorable del Ministerio para la Transición Ecológica.",
-      "d": "No se requiere ninguna comunicación si el monte no está protegido."
+      "a": "El traslado de la madera desde el punto de apeo hasta un punto de carga para los medios de transporte que generalmente corresponde con una pista principal del monte.",
+      "b": "El marcaje y delimitación de las áreas de extracción, el diseño y apertura o mejora de los viales y los trabajos previos de desbroce.",
+      "c": "El transporte final desde el punto accesible con camión hasta el parque de aprovisionamiento de las distintas industrias de puesta en valor de los recursos madereros.",
+      "d": "Ninguna de las opciones anteriores es correcta."
     },
     "correcta": "a"
   },
   {
     "id": 71,
-    "tema": 21,
-    "titulo_tema": "La sanidad forestal: conceptos generales. Principales agentes causantes de daños",
-    "categoria": "Temario Específico",
-    "enunciado": "Señale cuál de los siguientes organismos tiene la consideración de plaga de cuarentena prioritaria para la Unión Europea, de acuerdo con el Reglamento (UE) 2016/2031:",
+    "tema": 0,
+    "titulo_tema": "Derecho Constitucional",
+    "categoria": "Temario General",
+    "enunciado": "Según la Constitución Española, el Presidente del Tribunal Constitucional:",
     "opciones": {
-      "a": "Bursaphelenchus xylophilus (Nemátodo del pino).",
-      "b": "Thaumetopoea pinyocampa (Procesionaria del pino).",
-      "c": "Lymantria dispar (Lagarta peluda).",
-      "d": "Gonipterus platensis (Gorgojo del eucalipto)."
+      "a": "Serán nombrado entre sus miembros por el Gobierno, a propuesta del mismo Tribunal en pleno, por un plazo de 3 años.",
+      "b": "Será nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en pleno por un plazo de 3 años.",
+      "c": "Será nombrado entre sus miembros por el Gobierno, a propuesta del mismo Tribunal en pleno, por un plazo de 4 años.",
+      "d": "Será nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en pleno por un plazo de 4 años."
     },
-    "correcta": "a"
+    "correcta": "b"
   },
   {
     "id": 72,
-    "tema": 21,
-    "titulo_tema": "La sanidad forestal: conceptos generales. Principales agentes causantes de daños",
-    "categoria": "Temario Específico",
-    "enunciado": "El organismo patógeno Fusarium circinatum es el agente causal de la enfermedad conocida como:",
+    "tema": 0,
+    "titulo_tema": "Derecho Constitucional",
+    "categoria": "Temario General",
+    "enunciado": "Según la Constitución Española, los ciudadanos tienen derecho a participar de los asuntos públicos:",
     "opciones": {
-      "a": "Seca de la encina.",
-      "b": "Chancro resinoso del pino.",
-      "c": "Grafiosis del olmo.",
-      "d": "Banda marrón de los pinos."
+      "a": "Sólo de forma directa.",
+      "b": "Sólo por medio de representantes.",
+      "c": "Cuando lo hagan a través de representantes, estos deberán haber sido elegidos directamente por los afectados.",
+      "d": "Directamente o por medio de representantes."
     },
-    "correcta": "b"
+    "correcta": "d"
   },
   {
     "id": 73,
-    "tema": 21,
-    "titulo_tema": "La sanidad forestal: conceptos generales. Principales agentes causantes de daños",
-    "categoria": "Temario Específico",
-    "enunciado": "La lucha biológica contra la plaga del gorgojo del eucalipto (Gonipterus platensis) en España se realiza principalmente mediante la liberación del parasitoide:",
+    "tema": 0,
+    "titulo_tema": "Derecho Constitucional",
+    "categoria": "Temario General",
+    "enunciado": "Según el artículo 62 de la Constitución Española, corresponde al Rey:",
     "opciones": {
-      "a": "Anaphes nitens.",
-      "b": "Torymus sinensis.",
-      "c": "Bactrocera oleae.",
-      "d": "Rhizophagus grandis."
+      "a": "Controlar la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican.",
+      "b": "Proponer la disolución del Congreso, del Senado o de las Cortes Generales.",
+      "c": "Convocar a referéndum en los casos previstos en la Constitución.",
+      "d": "Establecer los Reglamentos de las Cámaras."
+    },
+    "correcta": "c"
+  },
+  {
+    "id": 74,
+    "tema": 0,
+    "titulo_tema": "Derecho Constitucional",
+    "categoria": "Temario General",
+    "enunciado": "Señale la respuesta CORRECTA. En relación con el Senado, la Constitución Española establece:",
+    "opciones": {
+      "a": "En las provincias insulares, cada isla o agrupación de ellas, con Cabildo o Consejo Insular, constituirá una circunscripción a efectos de elección de Senadores, correspondiendo tres a cada una de las islas mayores –Gran Canaria, Mallorca y Tenerife– y uno a cada una de las siguientes islas o agrupaciones: Ibiza-Formentera, Menorca, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma.",
+      "b": "En las provincias insulares, cada isla o agrupación de ellas, con Cabildo o Consejo Insular, constituirá una circunscripción a efectos de elección de Senadores, correspondiendo tres a cada una de las islas mayores –Gran Canaria, Mallorca y Tenerife– y dos a cada una de las siguientes islas o agrupaciones: Ibiza-Formentera, Menorca, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma.",
+      "c": "En las provincias insulares, cada isla o agrupación de ellas, con Cabildo o Consejo Insular, constituirá una circunscripción a efectos de elección de Senadores, correspondiendo cuatro a cada una de las islas mayores –Gran Canaria, Mallorca y Tenerife– y dos a cada una de las siguientes islas o agrupaciones: Ibiza-Formentera, Menorca, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma.",
+      "d": "En las provincias insulares, cada isla o agrupación de ellas, con Cabildo o Consejo Insular, constituirá una circunscripción a efectos de elección de Senadores, correspondiendo cuatro a cada una de las islas mayores –Gran Canaria, Mallorca y Tenerife– y uno a cada una de las siguientes islas o agrupaciones: Ibiza-Formentera, Menorca, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma."
     },
     "correcta": "a"
   },
   {
-    "id": 74,
-    "tema": 21,
-    "titulo_tema": "La sanidad forestal: conceptos generales. Principales agentes causantes de daños",
-    "categoria": "Temario Específico",
-    "enunciado": "Señale la opción CORRECTA en relación con la grafiosis de los olmos (Ophiostoma novo-ulmi):",
-    "opciones": {
-      "a": "Es una enfermedad causada por un virus transmitido por el viento.",
-      "b": "Es una enfermedad fúngica vascular transmitida por escarabajos escolítidos del género Scolytus.",
-      "c": "Solo afecta a los olmos jóvenes de menos de 10 años.",
-      "d": "Se ha erradicado completamente de la Península Ibérica gracias a los programas de selección de clones resistentes."
-    },
-    "correcta": "b"
-  },
-  {
     "id": 75,
-    "tema": 22,
-    "titulo_tema": "Los recursos genéticos forestales. Materiales de base y materiales de reproducción",
-    "categoria": "Temario Específico",
-    "enunciado": "Según el Real Decreto 289/2003, de 7 de marzo, sobre comercialización de los materiales forestales de reproducción, se define como 'material de base':",
+    "tema": 0,
+    "titulo_tema": "Organización del Gobierno",
+    "categoria": "Temario General",
+    "enunciado": "Ley 50/1997, de 27 de noviembre, del Gobierno, establece en relación con la Comisión General de Secretarios de Estado y Subsecretarios:",
     "opciones": {
-      "a": "Las semillas, partes de plantas y plantas destinadas a la producción de materiales de reproducción.",
-      "b": "La población de árboles de la que se obtiene el material de reproducción.",
-      "c": "Cualquier unidad taxonómica de plantas identificada mediante una denominación botánica.",
-      "d": "El sustrato utilizado en los viveros para la germinación de las semillas forestales."
+      "a": "La Secretaría de la Comisión General de Secretarios de Estado y Subsecretarios será ejercida por el Subsecretario de la Presidencia.",
+      "b": "La Secretaría de la Comisión General de Secretarios de Estado y Subsecretarios será ejercida por el Secretario de Estado de la Presidencia.",
+      "c": "La Secretaría de la Comisión General de Secretarios de Estado y Subsecretarios será ejercida por el Subsecretario de Hacienda.",
+      "d": "La Secretaría de la Comisión General de Secretarios de Estado y Subsecretarios corresponde a un Vicepresidente del Gobierno o, en su defecto, al Ministro de la Presidencia."
     },
-    "correcta": "b"
+    "correcta": "a"
   },
   {
     "id": 76,
-    "tema": 22,
-    "titulo_tema": "Los recursos genéticos forestales. Materiales de base y materiales de reproducción",
-    "categoria": "Temario Específico",
-    "enunciado": "Los materiales forestales de reproducción de la categoría 'Cualificado' proceden de:",
+    "tema": 0,
+    "titulo_tema": "Régimen Jurídico del Sector Público",
+    "categoria": "Temario General",
+    "enunciado": "Según el artículo 147 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la Conferencia Sectorial es:",
     "opciones": {
-      "a": "Fuentes de semillas o rodales situados dentro de una misma región de procedencia.",
-      "b": "Rodales que presentan una superioridad fenotípica respecto a la media.",
-      "c": "Huertos semilleros, familias de padres, clones o mezclas de clones cuyos componentes han sido seleccionados a nivel individual.",
-      "d": "Materiales de base que han demostrado su superioridad mediante ensayos comparativos."
+      "a": "Un órgano de cooperación multilateral entre el Gobierno de la Nación y los respectivos Gobiernos de las Comunidades Autónomas y está formada por el Presidente del Gobierno, que la preside, y por los Presidentes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla.",
+      "b": "Una entidad de derecho público, con personalidad jurídica propia y diferenciada, creada por varias Administraciones Públicas o entidades integrantes del sector público institucional, entre sí o con participación de entidades privadas, para el desarrollo de actividades de interés común a todas ellas dentro del ámbito de sus competencias.",
+      "c": "Un órgano de cooperación, de composición multilateral y ámbito sectorial determinado, que reúne como Presidente al miembro del Gobierno que, en representación de la Administración General del Estado, resulte competente por razón de la materia, y a los correspondientes miembros de los Consejos de Gobierno, en representación de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla.",
+      "d": "Una entidad de Derecho público, con personalidad jurídica propia, patrimonio propio y autonomía en su gestión, que se financia con ingresos de mercado."
     },
     "correcta": "c"
   },
   {
     "id": 77,
-    "tema": 22,
-    "titulo_tema": "Los recursos genéticos forestales. Materiales de base y materiales de reproducción",
-    "categoria": "Temario Específico",
-    "enunciado": "El Registro Nacional de Materiales de Base para la producción de materiales forestales de reproducción es gestionado por:",
+    "tema": 0,
+    "titulo_tema": "Organización de la Administración General del Estado",
+    "categoria": "Temario General",
+    "enunciado": "Los Delegados del Gobierno:",
     "opciones": {
-      "a": "El Ministerio para la Transición Ecológica y el Reto Demográfico.",
-      "b": "El Ministerio de Agricultura, Pesca y Alimentación.",
-      "c": "Las Comunidades Autónomas exclusivamente.",
-      "d": "El Centro Nacional de Recursos Genéticos Forestales."
+      "a": "Serán nombrados y separados por Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno.",
+      "b": "Serán nombrados y separados por el Presidente del Gobierno, a propuesta del Ministro de Política Territorial.",
+      "c": "Serán nombrados y separados por Real Decreto del Consejo de Ministros, a propuesta del Ministro de Política Territorial.",
+      "d": "Serán nombrados y separados por el Presidente del Gobierno, a propuesta del Ministro de Administraciones Públicas."
     },
-    "correcta": "b"
+    "correcta": "a"
   },
   {
     "id": 78,
-    "tema": 22,
-    "titulo_tema": "Los recursos genéticos forestales. Materiales de base y materiales de reproducción",
-    "categoria": "Temario Específico",
-    "enunciado": "¿Cuál de las siguientes especies forestales NO está incluida en el anexo I del Real Decreto 289/2003 (especies sujetas a requisitos de comercialización)?",
+    "tema": 0,
+    "titulo_tema": "Procedimiento administrativo y elaboración de normas",
+    "categoria": "Temario General",
+    "enunciado": "¿Por quién deben ser informados en todo caso los anteproyectos de ley?:",
     "opciones": {
-      "a": "Pinus pinaster.",
-      "b": "Quercus ilex.",
-      "c": "Fagus sylvatica.",
-      "d": "Phoenix canariensis."
+      "a": "Por el Consejo de Estado.",
+      "b": "Por el Consejo de Ministros.",
+      "c": "Por el Presidente del Gobierno.",
+      "d": "Por la Secretaría General Técnica del Ministerio o Ministerios proponentes."
     },
     "correcta": "d"
   },
   {
     "id": 79,
-    "tema": 22,
-    "titulo_tema": "Los recursos genéticos forestales. Materiales de base y materiales de reproducción",
-    "categoria": "Temario Específico",
-    "enunciado": "Las 'Regiones de Procedencia' se definen para cada especie o subespecie como:",
+    "tema": 0,
+    "titulo_tema": "Transparencia y Buen Gobierno",
+    "categoria": "Temario General",
+    "enunciado": "Las disposiciones del capítulo II de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno también serán aplicables a:",
     "opciones": {
-      "a": "El área o grupo de áreas sujetas a condiciones ecológicas uniformes en las que se encuentran rodales que presentan caracteres genéticos o fenotípicos análogos.",
-      "b": "Las unidades administrativas (provincias) donde se recolecta el material forestal.",
-      "c": "Las zonas de altitud similar dentro de una misma cadena montañosa.",
-      "d": "El lugar exacto donde se ubica un huerto semillero determinado."
+      "a": "Las entidades privadas que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 100.000 euros o cuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 5.000 euros.",
+      "b": "Las entidades privadas que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 150.000 euros o cuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 5.000 euros.",
+      "c": "Las entidades privadas que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 150.000 euros o cuando al menos el 50 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 5.000 euros.",
+      "d": "Las entidades privadas que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 100.000 euros o cuando al menos el 50 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 5.000 euros."
     },
     "correcta": "a"
   },
   {
     "id": 80,
-    "tema": 21,
-    "titulo_tema": "La sanidad forestal: conceptos generales. Principales agentes causantes de daños",
-    "categoria": "Temario Específico",
-    "enunciado": "El agente causal de la 'tinta del castaño' es el hongo fitopatógeno del género:",
+    "tema": 0,
+    "titulo_tema": "Procedimiento Administrativo Común",
+    "categoria": "Temario General",
+    "enunciado": "Señale la respuesta INCORRECTA:",
     "opciones": {
-      "a": "Cryphonectria.",
-      "b": "Phytophthora.",
-      "c": "Armillaria.",
-      "d": "Lophodermium."
+      "a": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+      "b": "La eficacia quedará demorada cuando así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior.",
+      "c": "Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados, así como cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y ésta no lesione derechos o intereses legítimos de otras personas.",
+      "d": "Las normas y actos dictados por los órganos de las Administraciones Públicas en el ejercicio de su propia competencia no deberán ser observadas por el resto de los órganos administrativos, que no dependan jerárquicamente o pertenezcan a otra Administración."
     },
-    "correcta": "b"
+    "correcta": "d"
   },
   {
     "id": 81,
-    "tema": 32,
-    "titulo_tema": "Hidrología: El ciclo hidrológico. La cuenca vertiente",
-    "categoria": "Temario Específico",
-    "enunciado": "En hidrología, el tiempo que transcurre desde el centro de gravedad de la precipitación neta hasta el pico del hidrograma de escorrentía directa se denomina:",
+    "tema": 0,
+    "titulo_tema": "Procedimiento Administrativo Común",
+    "categoria": "Temario General",
+    "enunciado": "Señale la respuesta INCORRECTA. En la Administración General del Estado, serán competentes para la revisión de oficio de las disposiciones y los actos nulos y anulables:",
     "opciones": {
-      "a": "Tiempo de concentración.",
-      "b": "Tiempo de retraso (lag time).",
-      "c": "Tiempo de pico.",
-      "d": "Tiempo de base."
+      "a": "El Consejo de Ministros, respecto de sus propios actos y disposiciones y de los actos y disposiciones dictados por los Ministros.",
+      "b": "Los Ministros, respecto de sus propios actos y disposiciones.",
+      "c": "Los Ministros, respecto de los actos y disposiciones de los Secretarios de Estado y de los dictados por órganos directivos de su Departamento no dependientes de una Secretaría de Estado.",
+      "d": "En los Organismos públicos y entidades de derecho público vinculados o dependientes de la Administración General del Estado, los máximos órganos rectores de los Organismos públicos y entidades de derecho público, respecto de los actos y disposiciones dictados por los órganos de ellos dependientes."
     },
     "correcta": "b"
   },
   {
     "id": 82,
-    "tema": 33,
-    "titulo_tema": "La erosión hídrica: conceptos, factores y procesos",
-    "categoria": "Temario Específico",
-    "enunciado": "La Ecuación Universal de Pérdida de Suelo (USLE) permite estimar la pérdida media anual de suelo por erosión hídrica en función de varios factores. El factor 'K' de dicha ecuación representa:",
+    "tema": 0,
+    "titulo_tema": "Derecho Presupuestario",
+    "categoria": "Temario General",
+    "enunciado": "El artículo 36 de la Ley General Presupuestaria regula el procedimiento de elaboración del presupuesto del Estado. Señale la afirmación INCORRECTA:",
     "opciones": {
-      "a": "La erosividad de la lluvia.",
-      "b": "La erodibilidad del suelo.",
-      "c": "El factor de longitud y pendiente de la ladera.",
-      "d": "El factor de ordenación y prácticas de conservación."
+      "a": "El procedimiento por el cual se regirá la elaboración de los Presupuestos Generales del Estado se establecerá por orden del Ministro de Hacienda.",
+      "b": "Los ministerios y los demás órganos del Estado con dotaciones diferenciadas en los Presupuestos Generales del Estado remitirán al Ministerio de Hacienda sus correspondientes propuestas de presupuesto, ajustadas a los límites que las directrices hayan establecido.",
+      "c": "El presupuesto de ingresos de la Administración General del Estado será aprobado por el Ministerio de Hacienda.",
+      "d": "Corresponderá al Ministro de Hacienda elevar al acuerdo del Gobierno el anteproyecto de la Ley de Presupuestos Generales del Estado."
     },
-    "correcta": "b"
+    "correcta": "c"
   },
   {
     "id": 83,
-    "tema": 34,
-    "titulo_tema": "Restauración hidrológico-forestal y control de la erosión",
-    "categoria": "Temario Específico",
-    "enunciado": "En las obras de corrección de torrentes, el objetivo principal de la construcción de diques de retención es:",
+    "tema": 0,
+    "titulo_tema": "Derecho Presupuestario",
+    "categoria": "Temario General",
+    "enunciado": "Establece el artículo 51 de la Ley General Presupuestaria que la cuantía y finalidad de los créditos contenidos en los presupuestos de gastos sólo podrán ser modificadas durante el ejercicio, dentro de los límites y con arreglo al procedimiento establecido, mediante las figuras de:",
     "opciones": {
-      "a": "Aumentar la velocidad de la corriente para evacuar sedimentos.",
-      "b": "Estabilizar el lecho mediante la creación de una pendiente de equilibrio.",
-      "c": "Fomentar la erosión remontante para ampliar la capacidad del cauce.",
-      "d": "Sustituir completamente la vegetación de ribera por estructuras de hormigón."
+      "a": "Transferencias de crédito y generaciones de crédito.",
+      "b": "Transferencias de crédito, generaciones de crédito, ampliaciones de crédito, créditos extraordinarios y suplementos de crédito e incorporaciones de crédito.",
+      "c": "Transferencias de crédito, generaciones de crédito, ampliaciones de crédito, créditos extraordinarios y suplementos de crédito, incorporaciones de crédito y anticipos de caja fija.",
+      "d": "Transferencias de crédito y ampliaciones de crédito."
     },
     "correcta": "b"
   },
   {
     "id": 84,
-    "tema": 34,
-    "titulo_tema": "Restauración hidrológico-forestal y control de la erosión",
-    "categoria": "Temario Específico",
-    "enunciado": "Las albarradas son pequeñas estructuras transversales utilizadas en la restauración hidrológica que se caracterizan por:",
+    "tema": 0,
+    "titulo_tema": "Contratos del Sector Público",
+    "categoria": "Temario General",
+    "enunciado": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿qué tipo de contrato es el que tiene por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles?:",
     "opciones": {
-      "a": "Ser construidas siempre con hormigón armado.",
-      "b": "Realizarse en las cárcavas o barrancos de pequeña entidad empleando materiales del entorno (piedra seca, madera, etc.).",
-      "c": "Tener como única función el almacenamiento de agua para riego.",
-      "d": "Ser estructuras longitudinales para la defensa de márgenes."
+      "a": "Contrato de obras.",
+      "b": "Contrato de suministro.",
+      "c": "Contrato de servicios.",
+      "d": "Contratos mixtos."
     },
     "correcta": "b"
   },
   {
     "id": 85,
-    "tema": 36,
-    "titulo_tema": "La ordenación de montes: concepto, fines y objetivos",
-    "categoria": "Temario Específico",
-    "enunciado": "En la terminología de ordenación de montes, la 'posibilidad' se define como:",
+    "tema": 0,
+    "titulo_tema": "Contratos del Sector Público",
+    "categoria": "Temario General",
+    "enunciado": "Señale la afirmación CORRECTA. Conforme al artículo 159 de la Ley 9/2017 de Contratos del Sector Público, los órganos de contratación podrán acordar la utilización de un procedimiento abierto simplificado en los contratos de obras, suministro y servicios cuando cumplan:",
     "opciones": {
-      "a": "La probabilidad de que un monte sufra un incendio forestal.",
-      "b": "La cuantía anual o periódica de los aprovechamientos que pueden extraerse de un monte según su plan de gestión.",
-      "c": "La capacidad de carga ganadera de un pastizal forestal.",
-      "d": "La superficie máxima que se puede repoblar en un año hidrológico."
+      "a": "En los contratos de obras que su valor estimado sea igual o inferior a 2.000.000 de euros, en todo caso.",
+      "b": "En el caso de contratos de suministro y de servicios, que su valor estimado sea inferior a las cantidades establecidas en los artículos 21.1, letra a), y 22.1, letra a), de esta Ley, respectivamente, o a sus correspondientes actualizaciones y que entre los criterios de adjudicación previstos en el pliego no haya ninguno evaluable mediante juicio de valor o, de haberlos, su ponderación no supere el veinticinco por ciento del total, salvo en el caso de que el contrato tenga por objeto prestaciones de carácter intelectual, como los servicios de ingeniería y arquitectura, en que su ponderación no podrá superar el cuarenta y cinco por ciento del total.",
+      "c": "En los casos de declaración de urgencia del expediente de contratación en el que el procedimiento de adjudicación utilizado sea el procedimiento abierto simplificado regulado en el presente artículo, se producirá la reducción de plazos a la que se refiere la letra b) del apartado 2 del artículo 119.",
+      "d": "En los contratos de obras de valor estimado inferior a 80.000 euros, y en contratos de suministros y de servicios de valor estimado inferior a 60.000 euros, excepto los que tengan por objeto prestaciones de carácter intelectual, el procedimiento abierto simplificado podrá seguir la tramitación del artículo 159.6, reduciéndose a la mitad los plazos para la licitación, adjudicación y formalización del contrato."
     },
     "correcta": "b"
   },
   {
     "id": 86,
-    "tema": 36,
-    "titulo_tema": "La ordenación de montes: concepto, fines y objetivos",
-    "categoria": "Temario Específico",
-    "enunciado": "El 'turno' en una masa regular se define como:",
+    "tema": 0,
+    "titulo_tema": "Función Pública e Incompatibilidades",
+    "categoria": "Temario General",
+    "enunciado": "Señale la afirmación CORRECTA. Conforme a la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas:",
     "opciones": {
-      "a": "El tiempo que transcurre entre dos claras sucesivas.",
-      "b": "La edad a la que se considera que la masa ha alcanzado su madurez para la corta final o regeneración.",
-      "c": "El orden en que los operarios realizan las labores de saca de madera.",
-      "d": "El periodo de tiempo que el ganado permanece en el monte."
+      "a": "El personal civil y militar al servicio de la Administración del Estado y de sus Organismos Públicos no podrá desempeñar un segundo puesto de trabajo o actividad en el sector público cuando uno de ellos consista en el desempeño de funciones docentes.",
+      "b": "Para el ejercicio de la segunda actividad será indispensable la previa y expresa autorización de compatibilidad, que si es necesario podrá suponer la modificación de la jornada de trabajo y horario de los dos puestos y que se condiciona a su estricto cumplimiento en ambos.",
+      "c": "Quienes accedan por cualquier título a un nuevo puesto del sector público que con arreglo a esta Ley resulte incompatible con el que vinieran desempeñando habrán de optar por uno de ellos dentro del plazo de toma de posesión.",
+      "d": "Al personal incluido en el ámbito de aplicación de ley se le podrá autorizar compatibilizar sus actividades con el desempeño de cargos electivos como Miembros de las Asambleas Legislativas de las Comunidades Autónomas, y percibir las retribuciones periódicas por el desempeño de la función si no supera la cantidad total percibida entre ambas, los límites establecidos en el artículo séptimo."
     },
-    "correcta": "b"
+    "correcta": "c"
   },
   {
     "id": 87,
-    "tema": 37,
-    "titulo_tema": "Inventario forestal. Métodos de muestreo",
-    "categoria": "Temario Específico",
-    "enunciado": "En un inventario forestal, el área basimétrica de un árbol es:",
+    "tema": 0,
+    "titulo_tema": "Igualdad y Violencia de Género",
+    "categoria": "Temario General",
+    "enunciado": "El artículo 1 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, establece como objeto de la Ley:",
     "opciones": {
-      "a": "La superficie de la proyección de su copa sobre el suelo.",
-      "b": "La superficie de la sección transversal del tronco a la altura normal (1,30 m).",
-      "c": "El volumen total de madera de la troza principal.",
-      "d": "La superficie ocupada por el sistema radicular."
+      "a": "Actuar contra la violencia que, como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre éstas por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.",
+      "b": "La violencia de género a que se refiere la presente Ley comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad.",
+      "c": "La violencia de género a que se refiere esta Ley también comprende la violencia que con el objetivo de causar perjuicio o daño a las mujeres se ejerza sobre sus familiares o allegados menores de edad.",
+      "d": "Todas las anteriores son correctas."
     },
-    "correcta": "b"
+    "correcta": "d"
   },
   {
     "id": 88,
-    "tema": 37,
-    "titulo_tema": "Inventario forestal. Métodos de muestreo",
-    "categoria": "Temario Específico",
-    "enunciado": "El Inventario Forestal Nacional (IFN) en España tiene como unidad básica de muestreo:",
+    "tema": 0,
+    "titulo_tema": "Unión Europea",
+    "categoria": "Temario General",
+    "enunciado": "Señale la respuesta CORRECTA. Los objetivos de los Tratados de la Unión Europea se alcanzan por medio de distintos tipos de actos legislativos de las instituciones de la Unión Europea, que son:",
     "opciones": {
-      "a": "Parcelas de radio variable mediante el método de Bitterlich.",
-      "b": "Parcelas circulares de radio fijo o concéntricas.",
-      "c": "Muestreo sistemático sobre una malla de 10x10 km.",
-      "d": "Fotografía aérea exclusivamente."
+      "a": "Directivas, reglamentos, decisiones, recomendaciones y dictámenes.",
+      "b": "Reglamentos, directivas, decisiones, comunicaciones y dictámenes.",
+      "c": "Directivas, reglamentos, dictámenes, recomendaciones y comunicaciones.",
+      "d": "Ninguna de las anteriores."
     },
-    "correcta": "b"
+    "correcta": "a"
   },
   {
     "id": 89,
-    "tema": 38,
-    "titulo_tema": "Modelos de crecimiento y producción forestal",
-    "categoria": "Temario Específico",
-    "enunciado": "El crecimiento en diámetro de un árbol a lo largo de su vida suele seguir una curva con forma de:",
+    "tema": 0,
+    "titulo_tema": "Unión Europea",
+    "categoria": "Temario General",
+    "enunciado": "¿Cuáles de las siguientes instituciones son órganos ejecutivos de la Unión Europea?",
     "opciones": {
-      "a": "Línea recta ascendente.",
-      "b": "S sigmoidea.",
-      "c": "Parábola invertida.",
-      "d": "Exponencial pura."
+      "a": "El Consejo de la Unión Europea.",
+      "b": "El Parlamento Europeo y la Comisión Europea.",
+      "c": "La Comisión Europea.",
+      "d": "La Comisión Europea, el Consejo de la Unión Europea y el Parlamento Europeo."
     },
-    "correcta": "b"
+    "correcta": "c"
   },
   {
     "id": 90,
-    "tema": 39,
-    "titulo_tema": "Tratamientos selvícolas: Limpias, clareos y claras",
+    "tema": 0,
+    "titulo_tema": "Organismos públicos ambientales",
     "categoria": "Temario Específico",
-    "enunciado": "Una 'clara' se diferencia de un 'clareo' principalmente en que:",
+    "enunciado": "¿Quién ejerce la presidencia del Organismo Autónomo Parques Nacionales (OAPN), según el Real Decreto 503/2024, de 21 de mayo, por el que se desarrolla la estructura orgánica básica del Ministerio para la Transición Ecológica y el Reto Demográfico, y se modifica el Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales?",
     "opciones": {
-      "a": "La clara se realiza en masas jóvenes sin valor comercial y el clareo en masas maduras.",
-      "b": "La clara tiene generalmente un objetivo comercial (se extraen productos con valor), mientras que el clareo es una mejora en masa joven.",
-      "c": "La clara busca eliminar especies competidoras y el clareo solo pinos.",
-      "d": "No hay diferencia, son términos sinónimos en selvicultura."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 81,
-    "tema": 32,
-    "titulo_tema": "Hidrología: El ciclo hidrológico. La cuenca vertiente",
-    "categoria": "Temario Específico",
-    "enunciado": "En hidrología, el tiempo que transcurre desde el centro de gravedad de la precipitación neta hasta el pico del hidrograma de escorrentía directa se denomina:",
-    "opciones": {
-      "a": "Tiempo de concentración.",
-      "b": "Tiempo de retraso (lag time).",
-      "c": "Tiempo de pico.",
-      "d": "Tiempo de base."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 82,
-    "tema": 33,
-    "titulo_tema": "La erosión hídrica: conceptos, factores y procesos",
-    "categoria": "Temario Específico",
-    "enunciado": "La Ecuación Universal de Pérdida de Suelo (USLE) permite estimar la pérdida media anual de suelo por erosión hídrica en función de varios factores. El factor 'K' de dicha ecuación representa:",
-    "opciones": {
-      "a": "La erosividad de la lluvia.",
-      "b": "La erodibilidad del suelo.",
-      "c": "El factor de longitud y pendiente de la ladera.",
-      "d": "El factor de ordenación y prácticas de conservación."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 83,
-    "tema": 34,
-    "titulo_tema": "Restauración hidrológico-forestal y control de la erosión",
-    "categoria": "Temario Específico",
-    "enunciado": "En las obras de corrección de torrentes, el objetivo principal de la construcción de diques de retención es:",
-    "opciones": {
-      "a": "Aumentar la velocidad de la corriente para evacuar sedimentos.",
-      "b": "Estabilizar el lecho mediante la creación de una pendiente de equilibrio.",
-      "c": "Fomentar la erosión remontante para ampliar la capacidad del cauce.",
-      "d": "Sustituir completamente la vegetación de ribera por estructuras de hormigón."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 84,
-    "tema": 34,
-    "titulo_tema": "Restauración hidrológico-forestal y control de la erosión",
-    "categoria": "Temario Específico",
-    "enunciado": "Las albarradas son pequeñas estructuras transversales utilizadas en la restauración hidrológica que se caracterizan por:",
-    "opciones": {
-      "a": "Ser construidas siempre con hormigón armado.",
-      "b": "Realizarse en las cárcavas o barrancos de pequeña entidad empleando materiales del entorno (piedra seca, madera, etc.).",
-      "c": "Tener como única función el almacenamiento de agua para riego.",
-      "d": "Ser estructuras longitudinales para la defensa de márgenes."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 85,
-    "tema": 36,
-    "titulo_tema": "La ordenación de montes: concepto, fines y objetivos",
-    "categoria": "Temario Específico",
-    "enunciado": "En la terminología de ordenación de montes, la 'posibilidad' se define como:",
-    "opciones": {
-      "a": "La probabilidad de que un monte sufra un incendio forestal.",
-      "b": "La cuantía anual o periódica de los aprovechamientos que pueden extraerse de un monte según su plan de gestión.",
-      "c": "La capacidad de carga ganadera de un pastizal forestal.",
-      "d": "La superficie máxima que se puede repoblar en un año hidrológico."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 86,
-    "tema": 36,
-    "titulo_tema": "La ordenación de montes: concepto, fines y objetivos",
-    "categoria": "Temario Específico",
-    "enunciado": "El 'turno' en una masa regular se define como:",
-    "opciones": {
-      "a": "El tiempo que transcurre entre dos claras sucesivas.",
-      "b": "La edad a la que se considera que la masa ha alcanzado su madurez para la corta final o regeneración.",
-      "c": "El orden en que los operarios realizan las labores de saca de madera.",
-      "d": "El periodo de tiempo que el ganado permanece en el monte."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 87,
-    "tema": 37,
-    "titulo_tema": "Inventario forestal. Métodos de muestreo",
-    "categoria": "Temario Específico",
-    "enunciado": "En un inventario forestal, el área basimétrica de un árbol es:",
-    "opciones": {
-      "a": "La superficie de la proyección de su copa sobre el suelo.",
-      "b": "La superficie de la sección transversal del tronco a la altura normal (1,30 m).",
-      "c": "El volumen total de madera de la troza principal.",
-      "d": "La superficie ocupada por el sistema radicular."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 88,
-    "tema": 37,
-    "titulo_tema": "Inventario forestal. Métodos de muestreo",
-    "categoria": "Temario Específico",
-    "enunciado": "El Inventario Forestal Nacional (IFN) en España tiene como unidad básica de muestreo:",
-    "opciones": {
-      "a": "Parcelas de radio variable mediante el método de Bitterlich.",
-      "b": "Parcelas circulares de radio fijo o concéntricas.",
-      "c": "Muestreo sistemático sobre una malla de 10x10 km.",
-      "d": "Fotografía aérea exclusivamente."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 89,
-    "tema": 38,
-    "titulo_tema": "Modelos de crecimiento y producción forestal",
-    "categoria": "Temario Específico",
-    "enunciado": "El crecimiento en diámetro de un árbol a lo largo de su vida suele seguir una curva con forma de:",
-    "opciones": {
-      "a": "Línea recta ascendente.",
-      "b": "S sigmoidea.",
-      "c": "Parábola invertida.",
-      "d": "Exponencial pura."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 90,
-    "tema": 39,
-    "titulo_tema": "Tratamientos selvícolas: Limpias, clareos y claras",
-    "categoria": "Temario Específico",
-    "enunciado": "Una 'clara' se diferencia de un 'clareo' principalmente en que:",
-    "opciones": {
-      "a": "La clara se realiza en masas jóvenes sin valor comercial y el clareo en masas maduras.",
-      "b": "La clara tiene generalmente un objetivo comercial (se extraen productos con valor), mientras que el clareo es una mejora en masa joven.",
-      "c": "La clara busca eliminar especies competidoras y el clareo solo pinos.",
-      "d": "No hay diferencia, son términos sinónimos en selvicultura."
+      "a": "La persona titular del ministerio para la Transición Ecológica y Reto Demográfico.",
+      "b": "La persona titular de la Secretaría de Estado de Medio Ambiente.",
+      "c": "La persona titular de la Dirección General de Biodiversidad, Bosques y Desertificación.",
+      "d": "La persona titular de la dirección del OAPN."
     },
     "correcta": "b"
   },
   {
     "id": 91,
-    "tema": 41,
-    "titulo_tema": "La repoblación forestal: objetivos y planificación",
+    "tema": 0,
+    "titulo_tema": "Ley de Costas",
     "categoria": "Temario Específico",
-    "enunciado": "En una repoblación forestal, la técnica de preparación del terreno mediante 'ahoyado' consiste en:",
+    "enunciado": "Según la Ley 22/1988, de 28 de julio, de Costas, y su reglamento de desarrollo, el plazo para notificar la resolución de los procedimientos de deslinde será de veinticuatro meses contados desde:",
     "opciones": {
-      "a": "La apertura de zanjas continuas siguiendo las curvas de nivel.",
-      "b": "La apertura de huecos individuales de dimensiones variables donde se situará la planta.",
-      "c": "El decapado superficial de la vegetación existente.",
-      "d": "La roturación completa de la parcela mediante vertedera."
+      "a": "La fecha de publicación del acuerdo de incoación del expediente de deslinde.",
+      "b": "La fecha de la solicitud de la persona interesada.",
+      "c": "La fecha de remisión de la propuesta por parte del Servicio Periférico de Costas a la Dirección General de Sostenibilidad de la Costa y del Mar.",
+      "d": "La fecha de publicación en el Boletín Oficial del Estado (BOE)."
     },
-    "correcta": "b"
+    "correcta": "a"
   },
   {
     "id": 92,
-    "tema": 42,
-    "titulo_tema": "Técnicas de reproducción y propagación vegetal",
+    "tema": 0,
+    "titulo_tema": "Ley de Costas",
     "categoria": "Temario Específico",
-    "enunciado": "El endurecimiento de la planta en vivero tiene como objetivo principal:",
+    "enunciado": "La propietaria de un establecimiento de hostelería presenta una solicitud en el Servicio Provincial de Costas de Alicante para la instalación de un establecimiento desmontable de venta de comidas y bebidas en playa para la temporada de verano. ¿Qué tipo de solicitud debe tramitar?:",
     "opciones": {
-      "a": "Aumentar el crecimiento en altura de forma rápida.",
-      "b": "Preparar fisiológicamente a la planta para resistir el estrés del trasplante y las condiciones adversas del campo.",
-      "c": "Ahorrar costes de riego y fertilización en las últimas fases.",
-      "d": "Evitar que las raíces salgan por los orificios de drenaje del envase."
+      "a": "Concesión.",
+      "b": "Reserva.",
+      "c": "Adscripción.",
+      "d": "Autorización."
     },
-    "correcta": "b"
+    "correcta": "d"
   },
   {
     "id": 93,
-    "tema": 43,
-    "titulo_tema": "Introducción de especies y biodiversidad",
+    "tema": 0,
+    "titulo_tema": "Legislación de Aguas",
     "categoria": "Temario Específico",
-    "enunciado": "Se considera 'especie exótica invasora' según la normativa española:",
+    "enunciado": "Una comunidad de regantes de la provincia de Valencia quiere solicitar una concesión de agua desalada. ¿A quién le corresponde otorgar dicha concesión?:",
     "opciones": {
-      "a": "Cualquier especie que no sea originaria de la Península Ibérica.",
-      "b": "Aquella que se introduce en un ecosistema natural o seminatural y que es un agente de cambio y amenaza para la diversidad biológica nativa.",
-      "c": "Todas las especies de crecimiento rápido utilizadas en plantaciones productivas.",
-      "d": "Únicamente aquellas especies animales que causan daños a la agricultura."
+      "a": "Al organismo de cuenca de la comunidad autónoma.",
+      "b": "A la Administración General del Estado.",
+      "c": "A la sociedad estatal que gestiona la explotación de la desaladora.",
+      "d": "El uso privativo de agua desalada no requiere concesión, pues no se trata de un bien del Dominio Público Hidráulico sino del Dominio Público Marítimo Terrestre."
     },
     "correcta": "b"
   },
   {
     "id": 94,
-    "tema": 45,
-    "titulo_tema": "El uso social del monte: recreo, paisaje y educación ambiental",
+    "tema": 0,
+    "titulo_tema": "Legislación de Aguas",
     "categoria": "Temario Específico",
-    "enunciado": "La capacidad de carga recreativa de un espacio natural se define como:",
+    "enunciado": "En relación con las Reservas Naturales Fluviales, señale la afirmación INCORRECTA.",
     "opciones": {
-      "a": "El número máximo de vehículos que pueden acceder a un parking forestal.",
-      "b": "El nivel máximo de uso que puede soportar un área sin que se produzca un deterioro inaceptable en los recursos o en la experiencia del visitante.",
-      "c": "La cantidad de leña que se permite recoger a los visitantes para uso recreativo.",
-      "d": "La superficie mínima necesaria para instalar un centro de interpretación."
+      "a": "Tienen como objetivo preservar, sin alteraciones, aquellos tramos de ríos con escasa o nula intervención humana, y son declaradas por el Ministerio de Transición Ecológica y Reto Demográfico.",
+      "b": "Podrá limitarse el otorgamiento de autorizaciones o concesiones sobre las Reservas Naturales Fluviales.",
+      "c": "Se declaran por Acuerdo del Consejo de Ministros según el artículo 25 del Plan Hidrológico Nacional.",
+      "d": "Se incluirán en el Registro de Zonas Protegidas."
     },
-    "correcta": "b"
+    "correcta": "a"
   },
   {
     "id": 95,
-    "tema": 46,
-    "titulo_tema": "La Red Natura 2000: ZEC y ZEPA",
+    "tema": 0,
+    "titulo_tema": "Parques Nacionales",
     "categoria": "Temario Específico",
-    "enunciado": "Las Zonas de Especial Protección para las Aves (ZEPA) se designan en virtud de:",
+    "enunciado": "Tal y como establece el artículo 21 de la Ley 30/2014, de 3 de diciembre, de Parques Nacionales, la gestión de los parques nacionales corresponde a:",
     "opciones": {
-      "a": "La Directiva Hábitats (92/43/CEE).",
-      "b": "La Directiva Aves (2009/147/CE).",
-      "c": "La Ley de Montes exclusivamente.",
-      "d": "El Convenio de Ramsar sobre humedales."
+      "a": "La Administración General del Estado, si son parques nacionales que se extienden por el territorio de dos o más comunidades autónomas.",
+      "b": "Las comunidades autónomas, en parques nacionales terrestres, marítimo-terrestres y los declarados sobre aguas marinas, siempre y cuando exista continuidad ecológica.",
+      "c": "La Administración General del Estado, salvo que ésta transfiera sus competencias a las comunidades autónomas.",
+      "d": "Ninguna de las anteriores."
     },
-    "correcta": "b"
+    "correcta": "d"
   },
   {
     "id": 96,
-    "tema": 46,
-    "titulo_tema": "La Red Natura 2000: ZEC y ZEPA",
+    "tema": 0,
+    "titulo_tema": "Espacios Naturales Protegidos",
     "categoria": "Temario Específico",
-    "enunciado": "Para que un Lugar de Importancia Comunitaria (LIC) pase a ser Zona Especial de Conservación (ZEC), es necesario:",
+    "enunciado": "Según lo dispuesto en el artículo 30 de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, los espacios naturales protegidos se clasifican en las siguientes categorías:",
     "opciones": {
-      "a": "Que transcurran 10 años desde su propuesta.",
-      "b": "La aprobación de su correspondiente plan o instrumento de gestión por la administración competente.",
-      "c": "Que así lo decida el Parlamento Europeo mediante Reglamento.",
-      "d": "Que el terreno sea adquirido por el Estado para su protección total."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 97,
-    "tema": 18,
-    "titulo_tema": "La Ley 42/2007, del Patrimonio Natural y de la Biodiversidad",
-    "categoria": "Temario Específico",
-    "enunciado": "El Inventario Español del Patrimonio Natural y de la Biodiversidad es un instrumento que permite:",
-    "opciones": {
-      "a": "Fijar los precios de las tasas por uso de espacios naturales.",
-      "b": "Recoger y organizar la información sobre la distribución, abundancia y estado de conservación de los elementos del patrimonio natural.",
-      "c": "Expropiar terrenos de alto valor ecológico.",
-      "d": "Gestionar las subvenciones de la Política Agraria Común (PAC)."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 98,
-    "tema": 18,
-    "titulo_tema": "La Ley 42/2007, del Patrimonio Natural y de la Biodiversidad",
-    "categoria": "Temario Específico",
-    "enunciado": "Las Reservas Naturales son espacios naturales cuya creación tiene como finalidad:",
-    "opciones": {
-      "a": "El fomento del turismo rural y la caza sostenible.",
-      "b": "La protección de ecosistemas, comunidades o elementos biológicos que por su rareza, fragilidad, importancia o singularidad merecen una protección especial.",
-      "c": "La explotación intensiva de recursos forestales bajo control estatal.",
-      "d": "La creación de áreas recreativas periurbanas."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 99,
-    "tema": 48,
-    "titulo_tema": "Evaluación de impacto ambiental en el medio forestal",
-    "categoria": "Temario Específico",
-    "enunciado": "El documento que emite el órgano ambiental tras finalizar la evaluación de impacto ambiental ordinaria se denomina:",
-    "opciones": {
-      "a": "Informe de Impacto Ambiental.",
-      "b": "Declaración de Impacto Ambiental (DIA).",
-      "c": "Resolución de Compatibilidad Estratégica.",
-      "d": "Licencia Ambiental Forestal."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 100,
-    "tema": 1,
-    "titulo_tema": "La Constitución Española de 1978",
-    "categoria": "Temario General",
-    "enunciado": "El derecho de todos a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo, se recoge en la Constitución Española en su artículo:",
-    "opciones": {
-      "a": "Artículo 14.",
-      "b": "Artículo 43.",
-      "c": "Artículo 45.",
-      "d": "Artículo 149."
+      "a": "Parques; Reservas; Áreas Marinas Protegidas; Monumentos Naturales; Espacios Red Natura 2000.",
+      "b": "Áreas Marinas Protegidas; Parques Nacionales; Paisajes Protegidos; Zonas de Especial Conservación.",
+      "c": "Parques; Reservas Naturales; Áreas Marinas Protegidas; Monumentos Naturales; Paisajes Protegidos.",
+      "d": "Parques Nacionales; Paisajes Protegidos; Áreas Marinas Protegidas; Espacios Red Natura 2000; Reservas de la Biosfera."
     },
     "correcta": "c"
   },
   {
-    "id": 101,
-    "tema": 6,
-    "titulo_tema": "El acto administrativo: concepto, clases, y elementos",
-    "categoria": "Temario General",
-    "enunciado": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común, los actos administrativos que dicten las Administraciones Públicas, bien de oficio o a instancia del interesado, se producirán por el órgano competente ajustándose a:",
+    "id": 97,
+    "tema": 0,
+    "titulo_tema": "Evaluación Ambiental",
+    "categoria": "Temario Específico",
+    "enunciado": "En la evaluación ambiental estratégica ordinaria, desde la solicitud de inicio al promotor, ¿cuál es el plazo máximo para la elaboración del estudio ambiental estratégico?",
     "opciones": {
-      "a": "El criterio discrecional del titular del órgano.",
-      "b": "Los plazos máximos de 10 días para su resolución.",
-      "c": "El procedimiento establecido.",
-      "d": "Las instrucciones verbales de los superiores jerárquicos."
+      "a": "Dos meses.",
+      "b": "Cuatro meses.",
+      "c": "Nueve meses.",
+      "d": "Un año."
+    },
+    "correcta": "c"
+  },
+  {
+    "id": 99,
+    "tema": 0,
+    "titulo_tema": "Cambio Climático y Acuerdos Internacionales",
+    "categoria": "Temario Específico",
+    "enunciado": "En el marco del Protocolo de Kioto, ¿qué país NO ratificó en 2004 el compromiso cuantificado de limitación o reducción de las emisiones?",
+    "opciones": {
+      "a": "México.",
+      "b": "Rusia.",
+      "c": "Japón.",
+      "d": "Estados Unidos."
+    },
+    "correcta": "d"
+  },
+  {
+    "id": 100,
+    "tema": 0,
+    "titulo_tema": "Cambio Climático",
+    "categoria": "Temario Específico",
+    "enunciado": "La Ley 7/2021 de Cambio Climático y Transición Energética, para conseguir los objetivos de reducción de emisiones de gases de efecto invernadero, energías renovables y eficiencia energética y dar cumplimiento a los compromisos internacionalmente asumidos y sin perjuicio de las competencias autonómicas; fija unos objetivos mínimos nacionales para el año 2030. Señale cuál de ellos es INCORRECTO.",
+    "opciones": {
+      "a": "Antes de 2030 y, en todo caso, en el más corto plazo posible, España deberá alcanzar la neutralidad climática, el sistema eléctrico deberá estar basado, exclusivamente, en fuentes de generación de origen renovable.",
+      "b": "Alcanzar en el año 2030 una penetración de energías de origen renovable en el consumo de energía final de, al menos, un 42%.",
+      "c": "Reducir en el año 2030 las emisiones de gases de efecto invernadero del conjunto de la economía española en, al menos, un 23 % respecto del año 1990.",
+      "d": "Alcanzar en el año 2030 un sistema eléctrico con, al menos, un 74 % de generación a partir de energías de origen renovables."
+    },
+    "correcta": "a"
+  },
+  {
+    "id": 101,
+    "tema": 0,
+    "titulo_tema": "Parques Nacionales",
+    "categoria": "Temario Específico",
+    "enunciado": "¿Cuál de los siguientes sistemas naturales terrestres es uno de los establecidos en el Anexo de la Ley 30/2014, de 3 de diciembre, y se encuentra representado en, al menos, tres parques nacionales españoles?",
+    "opciones": {
+      "a": "Bosques de pino canario.",
+      "b": "Bosques xerófilos mediterráneos.",
+      "c": "Bosques mixtos atlánticos del piso colino o montano.",
+      "d": "B y C son correctas."
     },
     "correcta": "c"
   },
   {
     "id": 102,
-    "tema": 7,
-    "titulo_tema": "El procedimiento administrativo: concepto, naturaleza y caracterización",
-    "categoria": "Temario General",
-    "enunciado": "En el procedimiento administrativo, el plazo para interponer el recurso de alzada si el acto fuera expreso será de:",
+    "tema": 0,
+    "titulo_tema": "Especies Protegidas",
+    "categoria": "Temario Específico",
+    "enunciado": "¿Cuál de las siguientes especies de moluscos, incluida en el Real Decreto 139/2011, de 4 de febrero, para el desarrollo del Listado de Especies Silvestres en Régimen de Protección Especial y del Catálogo Español de Especies Amenazadas, habita en la costa mediterránea española?:",
     "opciones": {
-      "a": "Quince días.",
-      "b": "Un mes.",
-      "c": "Dos meses.",
-      "d": "Tres meses."
+      "a": "Margaritifera auricularia.",
+      "b": "Pinna nobilis.",
+      "c": "Ophidiaster ophidianus.",
+      "d": "Tritia gaditana."
     },
     "correcta": "b"
   },
   {
     "id": 103,
-    "tema": 11,
-    "titulo_tema": "El personal funcionario al servicio de las Administraciones Públicas",
+    "tema": 0,
+    "titulo_tema": "Organización de la Administración General del Estado",
     "categoria": "Temario General",
-    "enunciado": "Según el Estatuto Básico del Empleado Público, la sanción de separación del servicio solo podrá sancionar la comisión de:",
+    "enunciado": "En la Administración General del Estado, son órganos superiores:",
     "opciones": {
-      "a": "Faltas graves y muy graves.",
-      "b": "Faltas muy graves.",
-      "c": "Cualquier falta si hay reincidencia.",
-      "d": "Únicamente delitos penales."
+      "a": "Los Ministros, los Secretarios de Estado y los Subsecretarios.",
+      "b": "Los Ministros y los Secretarios de Estado.",
+      "c": "Los Ministros y los Subsecretarios.",
+      "d": "Los Ministros, los Secretarios de Estado, los Subsecretarios y los Secretarios Generales."
     },
     "correcta": "b"
   },
   {
     "id": 104,
-    "tema": 23,
-    "titulo_tema": "Sistemas de certificación forestal",
+    "tema": 0,
+    "titulo_tema": "Planificación y calidad de las Aguas",
     "categoria": "Temario Específico",
-    "enunciado": "Los dos sistemas de certificación forestal más implantados a nivel mundial y en España son:",
+    "enunciado": "¿Cuáles de los siguientes elementos de calidad se aplican, entre otros, en la clasificación del estado o potencial ecológico de las masas de agua categoría río?:",
     "opciones": {
-      "a": "ISO 14001 y EMAS.",
-      "b": "FSC (Forest Stewardship Council) y PEFC (Programme for the Endorsement of Forest Certification).",
-      "c": "AENOR y la Etiqueta Ecológica Europea.",
-      "d": "GlobalGAP y Nature's Choice."
+      "a": "Composición, abundancia y biomasa del fitoplancton y los volúmenes y tiempo de permanencia.",
+      "b": "Composición y abundancia de fauna bentónica de invertebrados, y las condiciones térmicas y de oxigenación, salinidad, estado de acidificación y nutrientes.",
+      "c": "La eutrofización y estructura de la zona de oscilación de la marea.",
+      "d": "Todos los anteriores."
     },
     "correcta": "b"
   },
   {
     "id": 105,
-    "tema": 28,
-    "titulo_tema": "La biomasa forestal: Concepto, tipos y aprovechamiento",
+    "tema": 0,
+    "titulo_tema": "Organismos internacionales y ambientales",
     "categoria": "Temario Específico",
-    "enunciado": "Se entiende por 'biomasa forestal primaria' a efectos energéticos:",
+    "enunciado": "El organismo de la Unión Europea cuya labor es ofrecer información sólida e independiente sobre el medio ambiente y que es la fuente principal de información para los responsables del desarrollo, aprobación, ejecución y evaluación de las políticas medioambientales y también para los ciudadanos es:",
     "opciones": {
-      "a": "Los residuos procedentes de las industrias de primera transformación de la madera.",
-      "b": "La madera y restos vegetales procedentes directamente de selvícola y aprovechamientos forestales.",
-      "c": "Los pellets fabricados con serrín de carpintería.",
-      "d": "El licor negro procedente de la fabricación de pasta de papel."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 106,
-    "tema": 40,
-    "titulo_tema": "Métodos de regeneración de masas forestales",
-    "categoria": "Temario Específico",
-    "enunciado": "El método de regeneración por 'cortas a hecho' consiste en:",
-    "opciones": {
-      "a": "La extracción de árboles individuales de todas las edades en toda la superficie.",
-      "b": "La corta de todos los árboles de la unidad de actuación en una sola intervención.",
-      "c": "La realización de cortas parciales dejando árboles padre para la diseminación.",
-      "d": "La extracción únicamente de los pies enfermos o dominados."
-    },
-    "correcta": "b"
-  },
-  {
-    "id": 107,
-    "tema": 19,
-    "titulo_tema": "Botánica forestal: Principales familias y especies",
-    "categoria": "Temario Específico",
-    "enunciado": "Señale la respuesta INCORRECTA sobre las características botánicas de las siguientes especies:",
-    "opciones": {
-      "a": "La familia de las betuláceas está formada por árboles o arbustos monoicos, anemófilos, de hoja caduca.",
-      "b": "El género Salix se caracteriza por tener hojas estrechas, con peciolo corto y amentos maduros erectos.",
-      "c": "El género Populus se caracteriza por tener hojas anchas, con peciolo largo y amentos maduros colgantes.",
-      "d": "El género Quercus tiene frutos de tipo aquenio con pericarpio coriáceo."
-    },
-    "correcta": "d"
-  },
-  {
-    "id": 108,
-    "tema": 36,
-    "titulo_tema": "La ordenación de montes: concepto, fines y objetivos",
-    "categoria": "Temario Específico",
-    "enunciado": "Señale la respuesta CORRECTA. En la ordenación de montes, la forma fundamental de masa o método de beneficio se refiere a:",
-    "opciones": {
-      "a": "El modo de reproducción o regeneración de la masa.",
-      "b": "La estructura y distribución de edades de la masa.",
-      "c": "El temperamento de las especies de la masa.",
-      "d": "Los taxones presentes en la masa."
-    },
-    "correcta": "a"
-  },
-  {
-    "id": 109,
-    "tema": 46,
-    "titulo_tema": "La Red Natura 2000: ZEC y ZEPA",
-    "categoria": "Temario Específico",
-    "enunciado": "Los Estados miembros elaborarán un informe sobre la aplicación de las disposiciones que hayan adoptado en el marco de la Directiva Hábitats cada:",
-    "opciones": {
-      "a": "3 años.",
-      "b": "5 años.",
-      "c": "6 años.",
-      "d": "10 años."
+      "a": "Forest Europe.",
+      "b": "Oficina Europea del Medio Ambiente.",
+      "c": "Agencia Europea de Medio Ambiente.",
+      "d": "Unión Internacional para la Conservación de la Naturaleza."
     },
     "correcta": "c"
   },
   {
-    "id": 110,
-    "tema": 6,
-    "titulo_tema": "El acto administrativo: concepto, clases, y elementos",
+    "id": 106,
+    "tema": 0,
+    "titulo_tema": "Estatuto Básico del Empleado Público",
     "categoria": "Temario General",
-    "enunciado": "Señalar la respuesta INCORRECTA. Serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+    "enunciado": "Señale la afirmación CORRECTA. Según el Estatuto Básico del Empleado Público:",
     "opciones": {
-      "a": "Los actos que limiten derechos subjetivos o intereses legítimos.",
-      "b": "Los actos de trámite de los procedimientos de revisión de oficio.",
-      "c": "Los acuerdos de aplicación de la tramitación de urgencia.",
-      "d": "Los actos dictados en el ejercicio de potestades regladas que no afecten a intereses legítimos."
+      "a": "Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho administrativo y el Derecho laboral para el desempeño de servicios profesionales retribuidos de carácter permanente.",
+      "b": "Son funcionarios interinos los que, por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales con carácter temporal para el desempeño de funciones propias de funcionarios de carrera, por el exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de tres años.",
+      "c": "Es personal laboral el que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas in la legislación laboral, presta servicios retribuidos por las Administraciones Públicas. En función de la duración del contrato éste podrá ser fijo, por tiempo indefinido o temporal.",
+      "d": "Es personal eventual el que, en virtud de contrato de trabajo y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin."
     },
-    "correcta": "d"
+    "correcta": "c"
   }
 ]
